@@ -1,0 +1,1547 @@
+[Running] cd "/Users/fredrickbouloute/Desktop/CS_Classes/CNT4714/" && javac ABankingSimulator1.java && java ABankingSimulator1
+* * *  SIMULATION BEGINS...
+
+Deposit Agents			  Withdrawal Agents			       Balances     																	 Transaction Number
+--------------			  -----------------			--------------------																	-------------------
+						Agent WT2 attempts to withdraw $40 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT3 attempts to withdraw $93 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT4 attempts to withdraw $21 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT1 attempts to withdraw $38 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT5 attempts to withdraw $31 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT7 attempts to withdraw $13 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT6 attempts to withdraw $75 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT8 attempts to withdraw $22 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT9 attempts to withdraw $73 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT10 attempts to withdraw $64 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+Agent DT1 deposits $243 into: JA-1					(+) JA-1balance is $243																		 1
+Agent DT2 deposits $206 into: JA-2					(+) JA-2balance is $206																		 2
+Agent DT3 deposits $469 into: JA-1					(+) JA-1balance is $712																		 3
+Agent DT4 deposits $106 into: JA-2					(+) JA-2balance is $312																		 4
+* * * Flagged Transaction * * * Agent DT3 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT4 withdraws $95from JA-2		(-) JA-2balance is $217																 5
+Agent DT5 deposits $152 into: JA-1					(+) JA-1balance is $864																		 6
+Agent DT1 deposits $434 into: JA-1					(+) JA-1balance is $1298																		 7
+						Agent WT2 withdraws $22from JA-1		(-) JA-1balance is $1276																 8
+						Agent WT3 withdraws $25from JA-1		(-) JA-1balance is $1251																 9
+						Agent WT9 withdraws $8from JA-2		(-) JA-2balance is $209																 10
+						Agent WT6 withdraws $2from JA-2		(-) JA-2balance is $207																 11
+						Agent WT2 withdraws $17from JA-2		(-) JA-2balance is $190																 12
+						Agent WT3 withdraws $13from JA-1		(-) JA-1balance is $1238																 13
+						Agent WT6 withdraws $89from JA-1		(-) JA-1balance is $1149																 14
+						Agent WT1 withdraws $60from JA-1		(-) JA-1balance is $1089																 15
+						Agent WT3 withdraws $18from JA-1		(-) JA-1balance is $1071																 16
+						Agent WT1 withdraws $55from JA-2		(-) JA-2balance is $135																 17
+						Agent WT1 withdraws $19from JA-1		(-) JA-1balance is $1052																 18
+						Agent WT9 withdraws $86from JA-1		(-) JA-1balance is $966																 19
+						Agent WT4 withdraws $83from JA-1		(-) JA-1balance is $883																 20
+						Agent WT9 withdraws $6from JA-1		(-) JA-1balance is $877																 21
+						Agent WT2 withdraws $91from JA-1		(-) JA-1balance is $786																 22
+						Agent WT6 withdraws $62from JA-2		(-) JA-2balance is $73																 23
+						Agent WT1 withdraws $67from JA-1		(-) JA-1balance is $719																 23
+						Agent WT3 withdraws $91from JA-1		(-) JA-1balance is $628																 24
+						Agent WT1 withdraws $13from JA-1		(-) JA-1balance is $615																 25
+						Agent WT4 attempts to withdraw $74 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $73
+
+Agent DT4 deposits $424 into: JA-1					(+) JA-1balance is $1039																		 26
+						Agent WT2 withdraws $14from JA-2		(-) JA-2balance is $59																 27
+						Agent WT9 attempts to withdraw $95 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $59
+
+						Agent WT2 withdraws $18from JA-1		(-) JA-1balance is $1021																 28
+						Agent WT3 withdraws $20from JA-1		(-) JA-1balance is $1001																 29
+						Agent WT3 withdraws $12from JA-1		(-) JA-1balance is $989																 30
+						Agent WT2 withdraws $9from JA-1		(-) JA-1balance is $980																 31
+						Agent WT6 withdraws $35from JA-2		(-) JA-2balance is $24																 32
+						Agent WT1 withdraws $85from JA-1		(-) JA-1balance is $895																 33
+						Agent WT6 attempts to withdraw $30 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $24
+
+						Agent WT2 withdraws $6from JA-2		(-) JA-2balance is $18																 34
+						Agent WT3 withdraws $14from JA-2		(-) JA-2balance is $4																 35
+						Agent WT3 attempts to withdraw $96 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $4
+
+						Agent WT1 attempts to withdraw $47 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $4
+
+						Agent WT2 attempts to withdraw $62 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $4
+
+Agent DT4 deposits $508 into: JA-1					(+) JA-1balance is $1403																		 36
+* * * Flagged Transaction * * * Agent DT4 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+Agent DT4 deposits $482 into: JA-2					(+) JA-2balance is $486																		 37
+* * * Flagged Transaction * * * Agent DT4 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT5 withdraws $11from JA-1		(-) JA-1balance is $1392																 38
+						Agent WT5 withdraws $57from JA-1		(-) JA-1balance is $1335																 39
+						Agent WT5 withdraws $44from JA-1		(-) JA-1balance is $1291																 40
+						Agent WT5 withdraws $22from JA-2		(-) JA-2balance is $464																 41
+						Agent WT5 withdraws $54from JA-2		(-) JA-2balance is $410																 42
+						Agent WT5 withdraws $42from JA-1		(-) JA-1balance is $1249																 43
+						Agent WT5 withdraws $90from JA-2		(-) JA-2balance is $320																 44
+		TRANSFER --> Agent TR2 transferring $363 from JA-1 to JA-2 - - JA-2balance is now $886
+		TRANSFER COMPLETE --> Account JA-2 balance is now $683
+
+						Agent WT5 withdraws $71from JA-1		(-) JA-1balance is $815																 46
+						Agent WT5 withdraws $28from JA-2		(-) JA-2balance is $655																 47
+						Agent WT5 withdraws $57from JA-1		(-) JA-1balance is $758																 48
+Agent DT3 deposits $427 into: JA-1					(+) JA-1balance is $1185																		 49
+						Agent WT5 withdraws $67from JA-1		(-) JA-1balance is $1118																 50
+						Agent WT5 withdraws $4from JA-2		(-) JA-2balance is $651																 51
+Agent DT2 deposits $418 into: JA-1					(+) JA-1balance is $1536																		 52
+						Agent WT5 withdraws $35from JA-1		(-) JA-1balance is $1501																 53
+						Agent WT5 withdraws $42from JA-2		(-) JA-2balance is $609																 54
+						Agent WT5 withdraws $17from JA-2		(-) JA-2balance is $592																 55
+						Agent WT5 withdraws $37from JA-1		(-) JA-1balance is $1464																 56
+						Agent WT5 withdraws $34from JA-1		(-) JA-1balance is $1430																 57
+						Agent WT5 withdraws $64from JA-1		(-) JA-1balance is $1366																 58
+						Agent WT5 withdraws $80from JA-2		(-) JA-2balance is $512																 59
+						Agent WT5 withdraws $31from JA-1		(-) JA-1balance is $1335																 60
+						Agent WT5 withdraws $40from JA-2		(-) JA-2balance is $472																 61
+						Agent WT5 withdraws $79from JA-1		(-) JA-1balance is $1256																 62
+						Agent WT5 withdraws $67from JA-1		(-) JA-1balance is $1189																 63
+						Agent WT5 withdraws $92from JA-1		(-) JA-1balance is $1097																 64
+Agent DT1 deposits $460 into: JA-2					(+) JA-2balance is $932																		 65
+* * * Flagged Transaction * * * Agent DT1 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT5 withdraws $96from JA-1		(-) JA-1balance is $1001																 66
+						Agent WT5 withdraws $49from JA-2		(-) JA-2balance is $883																 67
+						Agent WT7 withdraws $50from JA-1		(-) JA-1balance is $951																 68
+						Agent WT5 withdraws $19from JA-2		(-) JA-2balance is $864																 69
+						Agent WT5 withdraws $10from JA-1		(-) JA-1balance is $941																 70
+Agent DT1 deposits $65 into: JA-2					(+) JA-2balance is $929																		 71
+						Agent WT7 withdraws $39from JA-2		(-) JA-2balance is $890																 72
+						Agent WT5 withdraws $81from JA-1		(-) JA-1balance is $860																 73
+						Agent WT8 withdraws $58from JA-1		(-) JA-1balance is $802																 74
+						Agent WT7 withdraws $86from JA-1		(-) JA-1balance is $716																 75
+						Agent WT7 withdraws $68from JA-1		(-) JA-1balance is $648																 76
+						Agent WT8 withdraws $63from JA-2		(-) JA-2balance is $827																 77
+						Agent WT5 withdraws $62from JA-1		(-) JA-1balance is $586																 78
+						Agent WT7 withdraws $93from JA-1		(-) JA-1balance is $493																 79
+						Agent WT8 withdraws $83from JA-2		(-) JA-2balance is $744																 80
+						Agent WT5 withdraws $27from JA-2		(-) JA-2balance is $717																 81
+						Agent WT5 withdraws $78from JA-2		(-) JA-2balance is $639																 82
+						Agent WT7 withdraws $91from JA-1		(-) JA-1balance is $402																 83
+						Agent WT8 withdraws $99from JA-1		(-) JA-1balance is $303																 84
+						Agent WT8 withdraws $66from JA-1		(-) JA-1balance is $237																 85
+Agent DT5 deposits $454 into: JA-2					(+) JA-2balance is $1093																		 86
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT10 withdraws $76from JA-2		(-) JA-2balance is $1017																 87
+						Agent WT8 withdraws $95from JA-2		(-) JA-2balance is $922																 88
+						Agent WT5 withdraws $21from JA-2		(-) JA-2balance is $901																 89
+						Agent WT8 withdraws $42from JA-1		(-) JA-1balance is $195																 90
+						Agent WT7 withdraws $23from JA-2		(-) JA-2balance is $878																 91
+						Agent WT7 withdraws $18from JA-2		(-) JA-2balance is $860																 92
+						Agent WT10 withdraws $28from JA-2		(-) JA-2balance is $832																 93
+						Agent WT8 withdraws $5from JA-1		(-) JA-1balance is $190																 94
+						Agent WT10 withdraws $3from JA-1		(-) JA-1balance is $187																 95
+						Agent WT5 withdraws $4from JA-2		(-) JA-2balance is $828																 96
+						Agent WT7 withdraws $76from JA-2		(-) JA-2balance is $752																 97
+						Agent WT5 withdraws $24from JA-2		(-) JA-2balance is $728																 98
+						Agent WT7 withdraws $73from JA-2		(-) JA-2balance is $655																 99
+						Agent WT8 withdraws $86from JA-2		(-) JA-2balance is $569																 100
+						Agent WT10 withdraws $3from JA-1		(-) JA-1balance is $184																 101
+						Agent WT10 withdraws $55from JA-1		(-) JA-1balance is $129																 102
+						Agent WT5 withdraws $66from JA-2		(-) JA-2balance is $503																 103
+						Agent WT7 withdraws $88from JA-2		(-) JA-2balance is $415																 104
+						Agent WT8 withdraws $65from JA-1		(-) JA-1balance is $64																 105
+						Agent WT5 withdraws $61from JA-2		(-) JA-2balance is $354																 106
+						Agent WT8 withdraws $50from JA-1		(-) JA-1balance is $14																 107
+						Agent WT5 attempts to withdraw $31 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+						Agent WT10 withdraws $8from JA-2		(-) JA-2balance is $346																 108
+						Agent WT10 attempts to withdraw $57 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+						Agent WT8 attempts to withdraw $85 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+						Agent WT7 attempts to withdraw $47 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+Agent DT1 deposits $482 into: JA-1					(+) JA-1balance is $496																		 109
+* * * Flagged Transaction * * * Agent DT1 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT5 withdraws $9from JA-1		(-) JA-1balance is $487																 110
+						Agent WT5 withdraws $93from JA-2		(-) JA-2balance is $253																 111
+						Agent WT5 withdraws $68from JA-1		(-) JA-1balance is $419																 112
+Agent DT2 deposits $225 into: JA-1					(+) JA-1balance is $644																		 113
+						Agent WT5 withdraws $61from JA-2		(-) JA-2balance is $192																 114
+						Agent WT10 withdraws $4from JA-1		(-) JA-1balance is $640																 115
+						Agent WT5 withdraws $19from JA-1		(-) JA-1balance is $621																 116
+						Agent WT5 withdraws $16from JA-2		(-) JA-2balance is $176																 117
+						Agent WT5 withdraws $70from JA-2		(-) JA-2balance is $106																 118
+						Agent WT10 withdraws $38from JA-2		(-) JA-2balance is $68																 119
+						Agent WT10 withdraws $85from JA-1		(-) JA-1balance is $536																 120
+						Agent WT10 withdraws $45from JA-1		(-) JA-1balance is $491																 121
+						Agent WT5 withdraws $17from JA-2		(-) JA-2balance is $51																 122
+						Agent WT5 withdraws $19from JA-1		(-) JA-1balance is $472																 123
+						Agent WT10 withdraws $46from JA-1		(-) JA-1balance is $426																 124
+						Agent WT5 withdraws $52from JA-1		(-) JA-1balance is $374																 125
+						Agent WT10 withdraws $82from JA-1		(-) JA-1balance is $292																 126
+						Agent WT5 withdraws $93from JA-1		(-) JA-1balance is $199																 127
+						Agent WT10 withdraws $75from JA-1		(-) JA-1balance is $124																 128
+						Agent WT10 attempts to withdraw $60 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $51
+
+						Agent WT5 withdraws $71from JA-1		(-) JA-1balance is $53																 129
+						Agent WT5 withdraws $10from JA-2		(-) JA-2balance is $41																 130
+Agent DT4 deposits $372 into: JA-1					(+) JA-1balance is $425																		 131
+						Agent WT8 withdraws $20from JA-2		(-) JA-2balance is $21																 132
+						Agent WT5 attempts to withdraw $42 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $21
+
+						Agent WT8 withdraws $31from JA-1		(-) JA-1balance is $394																 133
+						Agent WT8 attempts to withdraw $62 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $21
+
+Agent DT3 deposits $333 into: JA-2					(+) JA-2balance is $354																		 134
+						Agent WT4 withdraws $40from JA-1		(-) JA-1balance is $354																 135
+						Agent WT4 withdraws $10from JA-2		(-) JA-2balance is $344																 136
+Agent DT1 deposits $276 into: JA-2					(+) JA-2balance is $620																		 137
+						Agent WT9 withdraws $36from JA-1		(-) JA-1balance is $318																 138
+						Agent WT4 withdraws $36from JA-2		(-) JA-2balance is $584																 139
+						Agent WT4 withdraws $69from JA-1		(-) JA-1balance is $249																 140
+						Agent WT9 withdraws $80from JA-2		(-) JA-2balance is $504																 141
+						Agent WT4 withdraws $11from JA-2		(-) JA-2balance is $493																 142
+Agent DT5 deposits $139 into: JA-2					(+) JA-2balance is $632																		 143
+						Agent WT4 withdraws $44from JA-2		(-) JA-2balance is $588																 144
+						Agent WT9 withdraws $20from JA-1		(-) JA-1balance is $229																 145
+						Agent WT6 withdraws $64from JA-1		(-) JA-1balance is $165																 146
+						Agent WT4 withdraws $14from JA-1		(-) JA-1balance is $151																 147
+						Agent WT9 withdraws $72from JA-1		(-) JA-1balance is $79																 148
+						Agent WT6 attempts to withdraw $83 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $79
+
+						Agent WT9 attempts to withdraw $90 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $79
+
+						Agent WT4 withdraws $80from JA-2		(-) JA-2balance is $508																 149
+						Agent WT4 withdraws $19from JA-2		(-) JA-2balance is $489																 150
+Agent DT1 deposits $253 into: JA-2					(+) JA-2balance is $742																		 151
+						Agent WT4 attempts to withdraw $86 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $79
+
+						Agent WT3 withdraws $81from JA-2		(-) JA-2balance is $661																 152
+						Agent WT3 withdraws $49from JA-2		(-) JA-2balance is $612																 153
+						Agent WT3 withdraws $52from JA-2		(-) JA-2balance is $560																 154
+						Agent WT3 withdraws $50from JA-1		(-) JA-1balance is $29																 155
+						Agent WT3 attempts to withdraw $71 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $29
+
+Agent DT2 deposits $533 into: JA-2					(+) JA-2balance is $1093																		 156
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT1 withdraws $72from JA-2		(-) JA-2balance is $1021																 157
+Agent DT3 deposits $120 into: JA-1					(+) JA-1balance is $149																		 158
+						Agent WT7 withdraws $23from JA-1		(-) JA-1balance is $126																 159
+						Agent WT1 withdraws $37from JA-2		(-) JA-2balance is $984																 160
+						Agent WT1 withdraws $6from JA-2		(-) JA-2balance is $978																 161
+						Agent WT7 withdraws $45from JA-2		(-) JA-2balance is $933																 162
+						Agent WT7 withdraws $39from JA-1		(-) JA-1balance is $87																 163
+						Agent WT1 withdraws $54from JA-1		(-) JA-1balance is $33																 164
+						Agent WT7 withdraws $15from JA-1		(-) JA-1balance is $18																 165
+						Agent WT1 attempts to withdraw $74 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $18
+
+Agent DT1 deposits $199 into: JA-1					(+) JA-1balance is $217																		 166
+						Agent WT7 withdraws $58from JA-2		(-) JA-2balance is $875																 167
+Agent DT4 deposits $226 into: JA-2					(+) JA-2balance is $1101																		 168
+						Agent WT6 withdraws $79from JA-1		(-) JA-1balance is $138																 169
+						Agent WT7 withdraws $56from JA-1		(-) JA-1balance is $82																 170
+						Agent WT6 withdraws $47from JA-2		(-) JA-2balance is $1054																 171
+						Agent WT2 withdraws $81from JA-2		(-) JA-2balance is $973																 172
+						Agent WT7 withdraws $21from JA-1		(-) JA-1balance is $61																 173
+						Agent WT2 withdraws $13from JA-2		(-) JA-2balance is $960																 174
+						Agent WT6 withdraws $58from JA-2		(-) JA-2balance is $902																 175
+						Agent WT7 attempts to withdraw $97 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $61
+
+						Agent WT2 withdraws $63from JA-2		(-) JA-2balance is $839																 176
+						Agent WT6 withdraws $2from JA-2		(-) JA-2balance is $837																 177
+						Agent WT6 withdraws $82from JA-2		(-) JA-2balance is $755																 178
+						Agent WT2 withdraws $18from JA-1		(-) JA-1balance is $43																 179
+						Agent WT6 attempts to withdraw $74 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $43
+
+						Agent WT2 withdraws $89from JA-2		(-) JA-2balance is $666																 180
+						Agent WT2 withdraws $23from JA-2		(-) JA-2balance is $643																 181
+						Agent WT2 withdraws $41from JA-2		(-) JA-2balance is $602																 182
+						Agent WT2 attempts to withdraw $46 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $43
+
+Agent DT5 deposits $515 into: JA-2					(+) JA-2balance is $1117																		 183
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT10 attempts to withdraw $87 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $43
+
+Agent DT3 deposits $154 into: JA-2					(+) JA-2balance is $1271																		 184
+						Agent WT5 withdraws $17from JA-1		(-) JA-1balance is $26																 185
+						Agent WT5 withdraws $12from JA-1		(-) JA-1balance is $14																 186
+						Agent WT5 attempts to withdraw $80 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+Agent DT2 deposits $453 into: JA-1					(+) JA-1balance is $467																		 187
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT9 withdraws $21from JA-1		(-) JA-1balance is $446																 188
+Agent DT4 deposits $182 into: JA-2					(+) JA-2balance is $1453																		 189
+						Agent WT9 withdraws $12from JA-1		(-) JA-1balance is $434																 190
+						Agent WT8 withdraws $24from JA-1		(-) JA-1balance is $410																 191
+						Agent WT8 withdraws $36from JA-1		(-) JA-1balance is $374																 192
+						Agent WT8 withdraws $53from JA-2		(-) JA-2balance is $1400																 193
+						Agent WT9 withdraws $26from JA-1		(-) JA-1balance is $348																 194
+						Agent WT9 withdraws $55from JA-1		(-) JA-1balance is $293																 195
+						Agent WT9 withdraws $71from JA-1		(-) JA-1balance is $222																 196
+						Agent WT8 withdraws $33from JA-1		(-) JA-1balance is $189																 197
+						Agent WT9 withdraws $67from JA-2		(-) JA-2balance is $1333																 198
+						Agent WT9 withdraws $12from JA-2		(-) JA-2balance is $1321																 199
+Agent DT4 deposits $567 into: JA-1					(+) JA-1balance is $756																		 200
+* * * Flagged Transaction * * * Agent DT4 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT4 withdraws $54from JA-1		(-) JA-1balance is $702																 201
+						Agent WT9 withdraws $66from JA-2		(-) JA-2balance is $1255																 202
+						Agent WT8 withdraws $64from JA-1		(-) JA-1balance is $638																 203
+						Agent WT4 withdraws $95from JA-1		(-) JA-1balance is $543																 204
+						Agent WT8 withdraws $60from JA-1		(-) JA-1balance is $483																 205
+						Agent WT4 withdraws $47from JA-1		(-) JA-1balance is $436																 206
+						Agent WT8 withdraws $97from JA-2		(-) JA-2balance is $1158																 207
+						Agent WT9 withdraws $87from JA-1		(-) JA-1balance is $349																 208
+						Agent WT9 withdraws $53from JA-2		(-) JA-2balance is $1105																 209
+						Agent WT4 withdraws $65from JA-1		(-) JA-1balance is $284																 210
+						Agent WT4 withdraws $45from JA-2		(-) JA-2balance is $1060																 211
+						Agent WT8 withdraws $81from JA-1		(-) JA-1balance is $203																 212
+						Agent WT9 withdraws $92from JA-2		(-) JA-2balance is $968																 213
+						Agent WT8 withdraws $11from JA-1		(-) JA-1balance is $192																 214
+						Agent WT9 withdraws $19from JA-1		(-) JA-1balance is $173																 215
+						Agent WT4 withdraws $1from JA-2		(-) JA-2balance is $967																 216
+						Agent WT8 withdraws $57from JA-2		(-) JA-2balance is $910																 217
+						Agent WT9 withdraws $70from JA-1		(-) JA-1balance is $103																 218
+						Agent WT4 withdraws $88from JA-2		(-) JA-2balance is $822																 219
+						Agent WT9 withdraws $93from JA-2		(-) JA-2balance is $729																 220
+						Agent WT8 withdraws $48from JA-1		(-) JA-1balance is $55																 221
+						Agent WT4 withdraws $91from JA-2		(-) JA-2balance is $638																 222
+						Agent WT9 withdraws $2from JA-1		(-) JA-1balance is $53																 223
+						Agent WT4 attempts to withdraw $59 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $53
+
+						Agent WT8 withdraws $23from JA-2		(-) JA-2balance is $615																 224
+						Agent WT9 withdraws $96from JA-2		(-) JA-2balance is $519																 225
+						Agent WT8 withdraws $62from JA-2		(-) JA-2balance is $457																 226
+						Agent WT9 withdraws $95from JA-2		(-) JA-2balance is $362																 227
+
+********************************************************************************************
+
+
+Internal Bank Audit Beginning...
+
+		The total number of transactions since the last Internal audit is: 228
+
+		INTERNAL BANK AUDITOR FINDS CURRETN ACCOUNT BALANCE FOR JA-1 TO BE: $53
+		INTERNAL BANK AUDITOR FINDS CURRETN ACCOUNT BALANCE FOR JA-1 TO BE: $362
+
+Internal Bank Audit Complete.
+
+
+********************************************************************************************
+
+
+						Agent WT8 withdraws $93from JA-2		(-) JA-2balance is $269																 228
+Agent DT1 deposits $5 into: JA-2					(+) JA-2balance is $274																		 229
+						Agent WT8 withdraws $9from JA-2		(-) JA-2balance is $265																 230
+						Agent WT9 withdraws $20from JA-1		(-) JA-1balance is $33																 231
+						Agent WT9 withdraws $49from JA-2		(-) JA-2balance is $216																 232
+						Agent WT8 attempts to withdraw $76 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $33
+
+						Agent WT9 withdraws $47from JA-2		(-) JA-2balance is $169																 233
+						Agent WT9 withdraws $46from JA-2		(-) JA-2balance is $123																 234
+						Agent WT9 withdraws $30from JA-2		(-) JA-2balance is $93																 235
+						Agent WT9 withdraws $9from JA-2		(-) JA-2balance is $84																 236
+						Agent WT9 withdraws $75from JA-2		(-) JA-2balance is $9																 237
+						Agent WT9 attempts to withdraw $75 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $33
+
+Agent DT5 deposits $198 into: JA-1					(+) JA-1balance is $231																		 238
+						Agent WT3 withdraws $40from JA-1		(-) JA-1balance is $191																 239
+						Agent WT3 withdraws $10from JA-1		(-) JA-1balance is $181																 240
+						Agent WT3 attempts to withdraw $86 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+Agent DT1 deposits $314 into: JA-1					(+) JA-1balance is $495																		 241
+						Agent WT1 withdraws $70from JA-1		(-) JA-1balance is $425																 242
+						Agent WT1 attempts to withdraw $74 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+Agent DT4 deposits $304 into: JA-2					(+) JA-2balance is $313																		 243
+						Agent WT3 withdraws $24from JA-2		(-) JA-2balance is $289																 244
+						Agent WT3 withdraws $59from JA-1		(-) JA-1balance is $366																 245
+						Agent WT3 withdraws $55from JA-2		(-) JA-2balance is $234																 246
+						Agent WT3 withdraws $73from JA-1		(-) JA-1balance is $293																 247
+						Agent WT3 withdraws $53from JA-1		(-) JA-1balance is $240																 248
+						Agent WT3 withdraws $70from JA-1		(-) JA-1balance is $170																 249
+						Agent WT3 withdraws $80from JA-1		(-) JA-1balance is $90																 250
+						Agent WT3 withdraws $11from JA-1		(-) JA-1balance is $79																 251
+						Agent WT3 withdraws $62from JA-2		(-) JA-2balance is $172																 252
+						Agent WT3 withdraws $26from JA-1		(-) JA-1balance is $53																 253
+						Agent WT3 withdraws $29from JA-1		(-) JA-1balance is $24																 254
+						Agent WT3 attempts to withdraw $50 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $24
+
+Agent DT3 deposits $260 into: JA-1					(+) JA-1balance is $284																		 255
+						Agent WT7 withdraws $12from JA-2		(-) JA-2balance is $160																 256
+Agent DT1 deposits $90 into: JA-2					(+) JA-2balance is $250																		 257
+						Agent WT1 withdraws $38from JA-1		(-) JA-1balance is $246																 258
+						Agent WT7 withdraws $37from JA-2		(-) JA-2balance is $213																 259
+						Agent WT7 withdraws $82from JA-2		(-) JA-2balance is $131																 260
+Agent DT2 deposits $546 into: JA-1					(+) JA-1balance is $792																		 261
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT1 withdraws $88from JA-2		(-) JA-2balance is $43																 262
+						Agent WT7 withdraws $68from JA-1		(-) JA-1balance is $724																 263
+						Agent WT6 attempts to withdraw $93 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $43
+
+						Agent WT7 withdraws $11from JA-2		(-) JA-2balance is $32																 264
+						Agent WT1 attempts to withdraw $84 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $32
+
+						Agent WT7 withdraws $18from JA-2		(-) JA-2balance is $14																 265
+						Agent WT7 withdraws $77from JA-1		(-) JA-1balance is $647																 266
+						Agent WT7 attempts to withdraw $65 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+Agent DT5 deposits $95 into: JA-2					(+) JA-2balance is $109																		 267
+						Agent WT6 withdraws $46from JA-1		(-) JA-1balance is $601																 268
+						Agent WT6 withdraws $36from JA-1		(-) JA-1balance is $565																 269
+						Agent WT6 withdraws $40from JA-1		(-) JA-1balance is $525																 270
+						Agent WT6 withdraws $18from JA-2		(-) JA-2balance is $91																 271
+						Agent WT6 withdraws $23from JA-1		(-) JA-1balance is $502																 272
+						Agent WT6 withdraws $4from JA-1		(-) JA-1balance is $498																 273
+						Agent WT6 withdraws $13from JA-1		(-) JA-1balance is $485																 274
+						Agent WT6 withdraws $21from JA-2		(-) JA-2balance is $70																 275
+						Agent WT6 withdraws $55from JA-1		(-) JA-1balance is $430																 276
+						Agent WT6 withdraws $75from JA-1		(-) JA-1balance is $355																 277
+						Agent WT6 withdraws $66from JA-1		(-) JA-1balance is $289																 278
+						Agent WT6 withdraws $68from JA-1		(-) JA-1balance is $221																 279
+						Agent WT6 attempts to withdraw $77 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $70
+
+Agent DT1 deposits $383 into: JA-2					(+) JA-2balance is $453																		 280
+						Agent WT1 withdraws $93from JA-1		(-) JA-1balance is $128																 281
+						Agent WT1 withdraws $15from JA-2		(-) JA-2balance is $438																 282
+						Agent WT1 withdraws $16from JA-1		(-) JA-1balance is $112																 283
+						Agent WT1 withdraws $3from JA-2		(-) JA-2balance is $435																 284
+						Agent WT1 withdraws $55from JA-1		(-) JA-1balance is $57																 285
+						Agent WT1 withdraws $73from JA-2		(-) JA-2balance is $362																 286
+						Agent WT1 withdraws $33from JA-2		(-) JA-2balance is $329																 287
+						Agent WT1 withdraws $46from JA-1		(-) JA-1balance is $11																 288
+						Agent WT1 attempts to withdraw $68 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $11
+
+Agent DT4 deposits $134 into: JA-2					(+) JA-2balance is $463																		 289
+						Agent WT7 withdraws $94from JA-2		(-) JA-2balance is $369																 290
+						Agent WT7 attempts to withdraw $38 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $11
+
+Agent DT4 deposits $129 into: JA-1					(+) JA-1balance is $140																		 291
+Agent DT1 deposits $240 into: JA-1					(+) JA-1balance is $380																		 292
+						Agent WT10 withdraws $66from JA-2		(-) JA-2balance is $303																 293
+						Agent WT2 withdraws $71from JA-2		(-) JA-2balance is $232																 294
+						Agent WT10 withdraws $96from JA-1		(-) JA-1balance is $284																 295
+						Agent WT10 withdraws $42from JA-1		(-) JA-1balance is $242																 296
+						Agent WT2 withdraws $87from JA-1		(-) JA-1balance is $155																 297
+						Agent WT2 withdraws $52from JA-2		(-) JA-2balance is $180																 298
+						Agent WT10 withdraws $48from JA-1		(-) JA-1balance is $107																 299
+						Agent WT2 withdraws $74from JA-2		(-) JA-2balance is $106																 300
+						Agent WT10 withdraws $72from JA-1		(-) JA-1balance is $35																 301
+						Agent WT2 withdraws $38from JA-2		(-) JA-2balance is $68																 302
+						Agent WT10 withdraws $32from JA-2		(-) JA-2balance is $36																 303
+Agent DT5 deposits $430 into: JA-2					(+) JA-2balance is $466																		 304
+						Agent WT6 withdraws $24from JA-1		(-) JA-1balance is $11																 305
+						Agent WT10 attempts to withdraw $24 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $11
+
+						Agent WT2 attempts to withdraw $73 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $11
+
+						Agent WT6 attempts to withdraw $81 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $11
+
+Agent DT2 deposits $549 into: JA-1					(+) JA-1balance is $560																		 306
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT5 withdraws $32from JA-1		(-) JA-1balance is $528																 307
+Agent DT3 deposits $128 into: JA-1					(+) JA-1balance is $656																		 308
+						Agent WT5 withdraws $56from JA-2		(-) JA-2balance is $410																 309
+						Agent WT5 withdraws $86from JA-2		(-) JA-2balance is $324																 310
+						Agent WT5 withdraws $40from JA-2		(-) JA-2balance is $284																 311
+						Agent WT4 withdraws $2from JA-2		(-) JA-2balance is $282																 312
+						Agent WT5 withdraws $13from JA-2		(-) JA-2balance is $269																 313
+						Agent WT4 withdraws $63from JA-1		(-) JA-1balance is $593																 314
+						Agent WT4 withdraws $46from JA-1		(-) JA-1balance is $547																 315
+						Agent WT5 withdraws $81from JA-2		(-) JA-2balance is $188																 316
+						Agent WT5 withdraws $82from JA-1		(-) JA-1balance is $465																 317
+						Agent WT4 withdraws $36from JA-1		(-) JA-1balance is $429																 318
+						Agent WT4 withdraws $14from JA-1		(-) JA-1balance is $415																 319
+						Agent WT5 withdraws $18from JA-2		(-) JA-2balance is $170																 320
+						Agent WT4 withdraws $98from JA-2		(-) JA-2balance is $72																 321
+						Agent WT5 withdraws $54from JA-2		(-) JA-2balance is $18																 322
+						Agent WT4 withdraws $60from JA-1		(-) JA-1balance is $355																 323
+						Agent WT5 withdraws $41from JA-1		(-) JA-1balance is $314																 324
+						Agent WT4 withdraws $87from JA-1		(-) JA-1balance is $227																 325
+						Agent WT5 withdraws $14from JA-2		(-) JA-2balance is $4																 326
+						Agent WT4 withdraws $4from JA-1		(-) JA-1balance is $223																 327
+		TRANSFER --> Agent TR2 transferring $223 from JA-1 to JA-2 - - JA-2balance is now $0
+		TRANSFER COMPLETE --> Account JA-2 balance is now $227
+
+						Agent WT4 attempts to withdraw $6 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+						Agent WT5 withdraws $43from JA-2		(-) JA-2balance is $184																 329
+						Agent WT5 attempts to withdraw $45 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $0
+
+Agent DT5 deposits $99 into: JA-2					(+) JA-2balance is $283																		 330
+Agent DT4 deposits $381 into: JA-1					(+) JA-1balance is $381																		 331
+Agent DT1 deposits $151 into: JA-2					(+) JA-2balance is $434																		 332
+						Agent WT8 withdraws $64from JA-2		(-) JA-2balance is $370																 333
+						Agent WT8 withdraws $46from JA-2		(-) JA-2balance is $324																 334
+						Agent WT8 withdraws $31from JA-2		(-) JA-2balance is $293																 335
+Agent DT2 deposits $328 into: JA-1					(+) JA-1balance is $709																		 336
+						Agent WT9 withdraws $76from JA-1		(-) JA-1balance is $633																 337
+						Agent WT8 withdraws $21from JA-2		(-) JA-2balance is $272																 338
+						Agent WT8 withdraws $48from JA-2		(-) JA-2balance is $224																 339
+						Agent WT9 withdraws $31from JA-2		(-) JA-2balance is $193																 340
+						Agent WT8 withdraws $60from JA-1		(-) JA-1balance is $573																 341
+						Agent WT8 withdraws $50from JA-1		(-) JA-1balance is $523																 342
+						Agent WT9 withdraws $86from JA-1		(-) JA-1balance is $437																 343
+						Agent WT9 withdraws $55from JA-1		(-) JA-1balance is $382																 344
+Agent DT4 deposits $281 into: JA-1					(+) JA-1balance is $663																		 345
+						Agent WT8 withdraws $64from JA-1		(-) JA-1balance is $599																 346
+						Agent WT8 withdraws $74from JA-1		(-) JA-1balance is $525																 347
+						Agent WT3 withdraws $70from JA-2		(-) JA-2balance is $123																 348
+						Agent WT9 withdraws $37from JA-1		(-) JA-1balance is $488																 349
+						Agent WT8 withdraws $33from JA-1		(-) JA-1balance is $455																 350
+						Agent WT8 withdraws $99from JA-1		(-) JA-1balance is $356																 351
+						Agent WT9 withdraws $22from JA-2		(-) JA-2balance is $101																 352
+						Agent WT3 withdraws $53from JA-2		(-) JA-2balance is $48																 353
+						Agent WT8 withdraws $77from JA-1		(-) JA-1balance is $279																 354
+						Agent WT9 withdraws $31from JA-1		(-) JA-1balance is $248																 355
+						Agent WT3 attempts to withdraw $53 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $48
+
+						Agent WT8 attempts to withdraw $71 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $48
+
+						Agent WT9 withdraws $28from JA-2		(-) JA-2balance is $20																 356
+Agent DT1 deposits $548 into: JA-1					(+) JA-1balance is $796																		 357
+* * * Flagged Transaction * * * Agent DT1 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT9 attempts to withdraw $69 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $20
+
+						Agent WT1 attempts to withdraw $52 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $20
+
+Agent DT2 deposits $484 into: JA-2					(+) JA-2balance is $504																		 358
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT3 withdraws $28from JA-2		(-) JA-2balance is $476																 359
+						Agent WT3 withdraws $96from JA-1		(-) JA-1balance is $700																 360
+						Agent WT3 withdraws $5from JA-1		(-) JA-1balance is $695																 361
+						Agent WT3 withdraws $25from JA-2		(-) JA-2balance is $451																 362
+						Agent WT3 withdraws $8from JA-2		(-) JA-2balance is $443																 363
+Agent DT3 deposits $377 into: JA-1					(+) JA-1balance is $1072																		 364
+						Agent WT3 withdraws $2from JA-1		(-) JA-1balance is $1070																 365
+						Agent WT7 withdraws $11from JA-2		(-) JA-2balance is $432																 366
+						Agent WT7 withdraws $4from JA-1		(-) JA-1balance is $1066																 367
+						Agent WT7 withdraws $84from JA-2		(-) JA-2balance is $348																 368
+						Agent WT7 withdraws $53from JA-2		(-) JA-2balance is $295																 369
+						Agent WT7 withdraws $93from JA-2		(-) JA-2balance is $202																 370
+						Agent WT3 withdraws $64from JA-2		(-) JA-2balance is $138																 371
+						Agent WT7 withdraws $67from JA-1		(-) JA-1balance is $999																 372
+						Agent WT3 withdraws $60from JA-1		(-) JA-1balance is $939																 373
+						Agent WT3 withdraws $27from JA-1		(-) JA-1balance is $912																 374
+						Agent WT7 withdraws $36from JA-2		(-) JA-2balance is $102																 375
+						Agent WT3 withdraws $8from JA-1		(-) JA-1balance is $904																 376
+						Agent WT7 withdraws $36from JA-2		(-) JA-2balance is $66																 377
+						Agent WT3 withdraws $30from JA-1		(-) JA-1balance is $874																 378
+						Agent WT7 attempts to withdraw $92 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $66
+
+						Agent WT3 withdraws $94from JA-1		(-) JA-1balance is $780																 379
+						Agent WT3 attempts to withdraw $92 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $66
+
+Agent DT1 deposits $410 into: JA-2					(+) JA-2balance is $476																		 380
+						Agent WT8 withdraws $60from JA-2		(-) JA-2balance is $416																 381
+						Agent WT8 withdraws $38from JA-1		(-) JA-1balance is $742																 382
+						Agent WT8 withdraws $94from JA-2		(-) JA-2balance is $322																 383
+Agent DT5 deposits $394 into: JA-2					(+) JA-2balance is $716																		 384
+						Agent WT8 withdraws $65from JA-1		(-) JA-1balance is $677																 385
+						Agent WT9 withdraws $4from JA-1		(-) JA-1balance is $673																 386
+						Agent WT8 withdraws $86from JA-2		(-) JA-2balance is $630																 387
+Agent DT3 deposits $222 into: JA-1					(+) JA-1balance is $895																		 388
+						Agent WT9 withdraws $59from JA-2		(-) JA-2balance is $571																 389
+						Agent WT8 withdraws $95from JA-2		(-) JA-2balance is $476																 390
+						Agent WT9 withdraws $13from JA-1		(-) JA-1balance is $882																 391
+						Agent WT8 withdraws $18from JA-2		(-) JA-2balance is $458																 392
+						Agent WT10 withdraws $75from JA-2		(-) JA-2balance is $383																 393
+						Agent WT10 withdraws $59from JA-2		(-) JA-2balance is $324																 394
+Agent DT4 deposits $28 into: JA-1					(+) JA-1balance is $910																		 395
+						Agent WT8 withdraws $51from JA-2		(-) JA-2balance is $273																 396
+						Agent WT2 withdraws $45from JA-1		(-) JA-1balance is $865																 397
+						Agent WT9 withdraws $23from JA-1		(-) JA-1balance is $842																 398
+						Agent WT8 withdraws $89from JA-1		(-) JA-1balance is $753																 399
+						Agent WT10 withdraws $23from JA-1		(-) JA-1balance is $730																 400
+						Agent WT8 withdraws $37from JA-2		(-) JA-2balance is $236																 401
+						Agent WT10 withdraws $78from JA-2		(-) JA-2balance is $158																 402
+						Agent WT2 withdraws $84from JA-2		(-) JA-2balance is $74																 403
+						Agent WT9 attempts to withdraw $84 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $74
+
+						Agent WT10 withdraws $96from JA-1		(-) JA-1balance is $634																 404
+						Agent WT8 withdraws $43from JA-2		(-) JA-2balance is $31																 405
+						Agent WT2 withdraws $13from JA-1		(-) JA-1balance is $621																 406
+						Agent WT10 withdraws $94from JA-1		(-) JA-1balance is $527																 407
+						Agent WT8 withdraws $22from JA-2		(-) JA-2balance is $9																 408
+						Agent WT2 withdraws $55from JA-1		(-) JA-1balance is $472																 409
+						Agent WT10 attempts to withdraw $88 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+						Agent WT8 withdraws $25from JA-1		(-) JA-1balance is $447																 410
+						Agent WT2 withdraws $30from JA-1		(-) JA-1balance is $417																 411
+						Agent WT8 attempts to withdraw $19 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+						Agent WT2 withdraws $68from JA-1		(-) JA-1balance is $349																 412
+						Agent WT2 attempts to withdraw $64 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+Agent DT3 deposits $403 into: JA-2					(+) JA-2balance is $412																		 413
+Agent DT1 deposits $542 into: JA-1					(+) JA-1balance is $891																		 414
+* * * Flagged Transaction * * * Agent DT1 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT1 withdraws $28from JA-2		(-) JA-2balance is $384																 415
+						Agent WT1 withdraws $40from JA-1		(-) JA-1balance is $851																 416
+Agent DT2 deposits $538 into: JA-2					(+) JA-2balance is $922																		 417
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT6 withdraws $94from JA-1		(-) JA-1balance is $757																 418
+						Agent WT1 withdraws $88from JA-1		(-) JA-1balance is $669																 419
+Agent DT4 deposits $547 into: JA-1					(+) JA-1balance is $1216																		 420
+* * * Flagged Transaction * * * Agent DT4 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT6 withdraws $47from JA-1		(-) JA-1balance is $1169																 421
+						Agent WT7 withdraws $6from JA-1		(-) JA-1balance is $1163																 422
+						Agent WT1 withdraws $59from JA-2		(-) JA-2balance is $863																 423
+						Agent WT6 withdraws $81from JA-1		(-) JA-1balance is $1082																 424
+						Agent WT4 withdraws $36from JA-2		(-) JA-2balance is $827																 425
+						Agent WT7 withdraws $59from JA-2		(-) JA-2balance is $768																 426
+						Agent WT6 withdraws $14from JA-1		(-) JA-1balance is $1068																 427
+						Agent WT1 withdraws $41from JA-2		(-) JA-2balance is $727																 428
+Agent DT3 deposits $556 into: JA-1					(+) JA-1balance is $1624																		 429
+* * * Flagged Transaction * * * Agent DT3 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT1 withdraws $50from JA-1		(-) JA-1balance is $1574																 430
+						Agent WT6 withdraws $53from JA-1		(-) JA-1balance is $1521																 431
+						Agent WT1 withdraws $96from JA-1		(-) JA-1balance is $1425																 432
+						Agent WT1 withdraws $2from JA-2		(-) JA-2balance is $725																 433
+						Agent WT6 withdraws $93from JA-1		(-) JA-1balance is $1332																 434
+						Agent WT1 withdraws $25from JA-1		(-) JA-1balance is $1307																 435
+						Agent WT7 withdraws $15from JA-1		(-) JA-1balance is $1292																 436
+						Agent WT5 withdraws $51from JA-2		(-) JA-2balance is $674																 437
+						Agent WT4 withdraws $22from JA-1		(-) JA-1balance is $1270																 438
+						Agent WT6 withdraws $46from JA-1		(-) JA-1balance is $1224																 439
+						Agent WT7 withdraws $54from JA-1		(-) JA-1balance is $1170																 440
+						Agent WT1 withdraws $84from JA-2		(-) JA-2balance is $590																 441
+						Agent WT5 withdraws $1from JA-1		(-) JA-1balance is $1169																 442
+						Agent WT1 withdraws $54from JA-2		(-) JA-2balance is $536																 443
+						Agent WT4 withdraws $11from JA-2		(-) JA-2balance is $525																 444
+						Agent WT7 withdraws $12from JA-1		(-) JA-1balance is $1157																 445
+						Agent WT6 withdraws $93from JA-2		(-) JA-2balance is $432																 446
+						Agent WT5 withdraws $13from JA-1		(-) JA-1balance is $1144																 447
+						Agent WT1 withdraws $86from JA-1		(-) JA-1balance is $1058																 448
+						Agent WT1 withdraws $63from JA-1		(-) JA-1balance is $995																 449
+						Agent WT6 withdraws $28from JA-1		(-) JA-1balance is $967																 450
+						Agent WT4 withdraws $5from JA-1		(-) JA-1balance is $962																 451
+						Agent WT5 withdraws $77from JA-2		(-) JA-2balance is $355																 452
+						Agent WT7 withdraws $22from JA-1		(-) JA-1balance is $940																 453
+						Agent WT5 withdraws $10from JA-2		(-) JA-2balance is $345																 454
+						Agent WT6 withdraws $99from JA-1		(-) JA-1balance is $841																 455
+						Agent WT1 withdraws $34from JA-2		(-) JA-2balance is $311																 456
+						Agent WT5 withdraws $12from JA-1		(-) JA-1balance is $829																 457
+						Agent WT4 withdraws $71from JA-2		(-) JA-2balance is $240																 458
+						Agent WT5 withdraws $41from JA-2		(-) JA-2balance is $199																 459
+						Agent WT7 withdraws $14from JA-2		(-) JA-2balance is $185																 460
+						Agent WT6 withdraws $25from JA-1		(-) JA-1balance is $804																 461
+Agent DT5 deposits $561 into: JA-1					(+) JA-1balance is $1365																		 462
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT1 withdraws $79from JA-1		(-) JA-1balance is $1286																 463
+						Agent WT6 withdraws $82from JA-2		(-) JA-2balance is $103																 464
+						Agent WT6 withdraws $54from JA-2		(-) JA-2balance is $49																 465
+						Agent WT4 attempts to withdraw $62 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $49
+
+						Agent WT7 withdraws $91from JA-1		(-) JA-1balance is $1195																 466
+						Agent WT1 withdraws $11from JA-2		(-) JA-2balance is $38																 467
+						Agent WT7 withdraws $26from JA-1		(-) JA-1balance is $1169																 468
+						Agent WT6 attempts to withdraw $93 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $38
+
+						Agent WT5 withdraws $40from JA-1		(-) JA-1balance is $1129																 469
+						Agent WT1 withdraws $61from JA-1		(-) JA-1balance is $1068																 470
+						Agent WT5 withdraws $28from JA-2		(-) JA-2balance is $10																 471
+						Agent WT7 attempts to withdraw $31 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $10
+
+						Agent WT1 withdraws $7from JA-1		(-) JA-1balance is $1061																 472
+						Agent WT5 withdraws $21from JA-1		(-) JA-1balance is $1040																 473
+						Agent WT1 attempts to withdraw $54 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $10
+
+						Agent WT5 attempts to withdraw $31 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $10
+
+Agent DT2 deposits $441 into: JA-2					(+) JA-2balance is $451																		 474
+						Agent WT3 withdraws $25from JA-2		(-) JA-2balance is $426																 475
+Agent DT2 deposits $71 into: JA-2					(+) JA-2balance is $497																		 476
+						Agent WT9 withdraws $94from JA-1		(-) JA-1balance is $946																 477
+						Agent WT3 withdraws $48from JA-1		(-) JA-1balance is $898																 478
+						Agent WT3 withdraws $75from JA-2		(-) JA-2balance is $422																 479
+						Agent WT9 withdraws $84from JA-2		(-) JA-2balance is $338																 480
+						Agent WT9 withdraws $26from JA-1		(-) JA-1balance is $872																 481
+						Agent WT3 withdraws $86from JA-2		(-) JA-2balance is $252																 482
+						Agent WT9 withdraws $77from JA-2		(-) JA-2balance is $175																 483
+						Agent WT3 withdraws $78from JA-2		(-) JA-2balance is $97																 484
+						Agent WT9 withdraws $2from JA-2		(-) JA-2balance is $95																 485
+						Agent WT3 withdraws $88from JA-2		(-) JA-2balance is $7																 486
+Agent DT1 deposits $360 into: JA-2					(+) JA-2balance is $367																		 487
+						Agent WT3 withdraws $54from JA-1		(-) JA-1balance is $818																 488
+						Agent WT10 withdraws $68from JA-2		(-) JA-2balance is $299																 489
+						Agent WT3 withdraws $7from JA-2		(-) JA-2balance is $292																 490
+						Agent WT10 withdraws $20from JA-1		(-) JA-1balance is $798																 491
+						Agent WT3 withdraws $7from JA-1		(-) JA-1balance is $791																 492
+						Agent WT9 withdraws $91from JA-2		(-) JA-2balance is $201																 493
+						Agent WT3 withdraws $58from JA-2		(-) JA-2balance is $143																 494
+						Agent WT10 withdraws $58from JA-2		(-) JA-2balance is $85																 495
+						Agent WT3 withdraws $3from JA-1		(-) JA-1balance is $788																 496
+						Agent WT9 withdraws $2from JA-1		(-) JA-1balance is $786																 497
+						Agent WT3 withdraws $3from JA-2		(-) JA-2balance is $82																 498
+						Agent WT9 withdraws $49from JA-2		(-) JA-2balance is $33																 499
+						Agent WT3 withdraws $86from JA-1		(-) JA-1balance is $700																 500
+						Agent WT10 withdraws $9from JA-2		(-) JA-2balance is $24																 501
+						Agent WT10 withdraws $15from JA-1		(-) JA-1balance is $685																 502
+						Agent WT9 attempts to withdraw $80 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $24
+
+						Agent WT3 attempts to withdraw $67 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $24
+
+						Agent WT10 withdraws $6from JA-2		(-) JA-2balance is $18																 503
+						Agent WT10 attempts to withdraw $41 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $18
+
+Agent DT4 deposits $3 into: JA-2					(+) JA-2balance is $21																		 504
+						Agent WT8 withdraws $19from JA-1		(-) JA-1balance is $666																 505
+						Agent WT8 withdraws $18from JA-2		(-) JA-2balance is $3																 506
+						Agent WT8 withdraws $47from JA-1		(-) JA-1balance is $619																 507
+						Agent WT8 withdraws $43from JA-1		(-) JA-1balance is $576																 508
+						Agent WT8 withdraws $66from JA-1		(-) JA-1balance is $510																 509
+						Agent WT8 attempts to withdraw $15 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $3
+
+Agent DT4 deposits $301 into: JA-1					(+) JA-1balance is $811																		 510
+Agent DT2 deposits $215 into: JA-2					(+) JA-2balance is $218																		 511
+						Agent WT2 withdraws $91from JA-2		(-) JA-2balance is $127																 512
+						Agent WT2 withdraws $22from JA-2		(-) JA-2balance is $105																 513
+						Agent WT2 withdraws $44from JA-2		(-) JA-2balance is $61																 514
+						Agent WT2 withdraws $57from JA-2		(-) JA-2balance is $4																 515
+						Agent WT2 attempts to withdraw $70 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $4
+
+Agent DT2 deposits $142 into: JA-1					(+) JA-1balance is $953																		 516
+Agent DT5 deposits $536 into: JA-2					(+) JA-2balance is $540																		 517
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT4 withdraws $81from JA-1		(-) JA-1balance is $872																 518
+Agent DT3 deposits $20 into: JA-1					(+) JA-1balance is $892																		 519
+Agent DT3 deposits $347 into: JA-2					(+) JA-2balance is $887																		 520
+						Agent WT6 withdraws $89from JA-1		(-) JA-1balance is $803																 521
+						Agent WT6 withdraws $42from JA-1		(-) JA-1balance is $761																 522
+						Agent WT4 withdraws $95from JA-2		(-) JA-2balance is $792																 523
+						Agent WT4 withdraws $26from JA-2		(-) JA-2balance is $766																 524
+						Agent WT6 withdraws $39from JA-2		(-) JA-2balance is $727																 525
+						Agent WT4 withdraws $92from JA-2		(-) JA-2balance is $635																 526
+						Agent WT6 withdraws $47from JA-2		(-) JA-2balance is $588																 527
+						Agent WT4 withdraws $75from JA-1		(-) JA-1balance is $686																 528
+						Agent WT6 withdraws $64from JA-1		(-) JA-1balance is $622																 529
+						Agent WT6 withdraws $27from JA-1		(-) JA-1balance is $595																 530
+						Agent WT4 withdraws $29from JA-2		(-) JA-2balance is $559																 531
+Agent DT4 deposits $172 into: JA-2					(+) JA-2balance is $731																		 532
+						Agent WT4 withdraws $72from JA-1		(-) JA-1balance is $523																 533
+						Agent WT6 withdraws $15from JA-1		(-) JA-1balance is $508																 534
+						Agent WT7 withdraws $52from JA-1		(-) JA-1balance is $456																 535
+Agent DT2 deposits $471 into: JA-1					(+) JA-1balance is $927																		 536
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT4 withdraws $11from JA-1		(-) JA-1balance is $916																 537
+						Agent WT6 withdraws $58from JA-2		(-) JA-2balance is $673																 538
+						Agent WT7 withdraws $88from JA-2		(-) JA-2balance is $585																 539
+						Agent WT4 withdraws $84from JA-2		(-) JA-2balance is $501																 540
+						Agent WT6 withdraws $91from JA-2		(-) JA-2balance is $410																 541
+						Agent WT6 withdraws $79from JA-1		(-) JA-1balance is $837																 542
+						Agent WT6 withdraws $61from JA-1		(-) JA-1balance is $776																 543
+						Agent WT7 withdraws $88from JA-2		(-) JA-2balance is $322																 544
+						Agent WT4 withdraws $18from JA-1		(-) JA-1balance is $758																 545
+						Agent WT6 withdraws $71from JA-1		(-) JA-1balance is $687																 546
+						Agent WT7 withdraws $6from JA-2		(-) JA-2balance is $316																 547
+						Agent WT4 withdraws $99from JA-1		(-) JA-1balance is $588																 548
+						Agent WT6 withdraws $44from JA-1		(-) JA-1balance is $544																 549
+						Agent WT7 withdraws $62from JA-2		(-) JA-2balance is $254																 550
+						Agent WT7 withdraws $73from JA-1		(-) JA-1balance is $471																 551
+						Agent WT4 withdraws $49from JA-2		(-) JA-2balance is $205																 552
+						Agent WT6 withdraws $2from JA-2		(-) JA-2balance is $203																 553
+						Agent WT4 withdraws $2from JA-2		(-) JA-2balance is $201																 554
+						Agent WT7 withdraws $65from JA-2		(-) JA-2balance is $136																 555
+						Agent WT6 withdraws $50from JA-2		(-) JA-2balance is $86																 556
+						Agent WT6 attempts to withdraw $94 fron JA-2 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $86
+
+						Agent WT7 withdraws $44from JA-2		(-) JA-2balance is $42																 557
+Agent DT4 deposits $386 into: JA-2					(+) JA-2balance is $428																		 558
+						Agent WT7 withdraws $24from JA-2		(-) JA-2balance is $404																 559
+						Agent WT4 withdraws $53from JA-2		(-) JA-2balance is $351																 560
+						Agent WT4 withdraws $30from JA-2		(-) JA-2balance is $321																 561
+Agent DT1 deposits $319 into: JA-2					(+) JA-2balance is $640																		 562
+						Agent WT1 withdraws $35from JA-2		(-) JA-2balance is $605																 563
+						Agent WT4 withdraws $92from JA-1		(-) JA-1balance is $379																 564
+						Agent WT1 withdraws $74from JA-2		(-) JA-2balance is $531																 565
+						Agent WT5 withdraws $90from JA-1		(-) JA-1balance is $289																 566
+						Agent WT7 withdraws $44from JA-2		(-) JA-2balance is $487																 567
+						Agent WT5 withdraws $67from JA-2		(-) JA-2balance is $420																 568
+						Agent WT1 withdraws $86from JA-1		(-) JA-1balance is $203																 569
+						Agent WT4 withdraws $96from JA-2		(-) JA-2balance is $324																 570
+						Agent WT4 withdraws $44from JA-1		(-) JA-1balance is $159																 571
+						Agent WT5 withdraws $58from JA-1		(-) JA-1balance is $101																 572
+						Agent WT5 withdraws $48from JA-1		(-) JA-1balance is $53																 573
+						Agent WT7 attempts to withdraw $74 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $53
+
+						Agent WT1 withdraws $77from JA-2		(-) JA-2balance is $247																 574
+						Agent WT1 withdraws $16from JA-2		(-) JA-2balance is $231																 575
+						Agent WT5 withdraws $1from JA-2		(-) JA-2balance is $230																 576
+						Agent WT4 withdraws $34from JA-2		(-) JA-2balance is $196																 577
+						Agent WT1 attempts to withdraw $72 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $53
+
+						Agent WT5 attempts to withdraw $94 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $53
+
+						Agent WT4 attempts to withdraw $59 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $53
+
+Agent DT2 deposits $43 into: JA-2					(+) JA-2balance is $239																		 578
+						Agent WT9 attempts to withdraw $54 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $53
+
+Agent DT3 deposits $383 into: JA-1					(+) JA-1balance is $436																		 579
+						Agent WT7 withdraws $52from JA-1		(-) JA-1balance is $384																 580
+						Agent WT7 withdraws $69from JA-1		(-) JA-1balance is $315																 581
+						Agent WT7 withdraws $93from JA-1		(-) JA-1balance is $222																 582
+						Agent WT7 withdraws $78from JA-1		(-) JA-1balance is $144																 583
+						Agent WT7 withdraws $5from JA-1		(-) JA-1balance is $139																 584
+						Agent WT7 withdraws $65from JA-2		(-) JA-2balance is $174																 585
+						Agent WT7 withdraws $97from JA-2		(-) JA-2balance is $77																 586
+						Agent WT7 withdraws $56from JA-2		(-) JA-2balance is $21																 587
+						Agent WT7 withdraws $7from JA-2		(-) JA-2balance is $14																 588
+Agent DT5 deposits $377 into: JA-2					(+) JA-2balance is $391																		 589
+						Agent WT7 withdraws $54from JA-1		(-) JA-1balance is $85																 590
+						Agent WT7 withdraws $82from JA-1		(-) JA-1balance is $3																 591
+						Agent WT7 attempts to withdraw $81 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $3
+
+						Agent WT3 withdraws $27from JA-2		(-) JA-2balance is $364																 592
+Agent DT4 deposits $491 into: JA-2					(+) JA-2balance is $855																		 593
+* * * Flagged Transaction * * * Agent DT4 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT3 attempts to withdraw $72 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $3
+
+						Agent WT10 attempts to withdraw $95 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $3
+
+Agent DT5 deposits $461 into: JA-2					(+) JA-2balance is $1316																		 594
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT8 attempts to withdraw $82 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $3
+
+Agent DT2 deposits $350 into: JA-1					(+) JA-1balance is $353																		 595
+						Agent WT1 withdraws $34from JA-2		(-) JA-2balance is $1282																 596
+Agent DT1 deposits $161 into: JA-2					(+) JA-2balance is $1443																		 597
+						Agent WT1 withdraws $65from JA-2		(-) JA-2balance is $1378																 598
+						Agent WT2 withdraws $63from JA-2		(-) JA-2balance is $1315																 599
+						Agent WT2 withdraws $48from JA-2		(-) JA-2balance is $1267																 600
+Agent DT5 deposits $452 into: JA-1					(+) JA-1balance is $805																		 601
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT1 withdraws $73from JA-1		(-) JA-1balance is $732																 602
+						Agent WT1 withdraws $92from JA-1		(-) JA-1balance is $640																 603
+Agent DT3 deposits $11 into: JA-1					(+) JA-1balance is $651																		 604
+						Agent WT5 withdraws $66from JA-1		(-) JA-1balance is $585																 605
+						Agent WT2 withdraws $99from JA-2		(-) JA-2balance is $1168																 606
+						Agent WT1 withdraws $31from JA-2		(-) JA-2balance is $1137																 607
+						Agent WT2 withdraws $61from JA-1		(-) JA-1balance is $524																 608
+						Agent WT5 withdraws $67from JA-2		(-) JA-2balance is $1070																 609
+						Agent WT4 withdraws $40from JA-1		(-) JA-1balance is $484																 610
+						Agent WT2 withdraws $83from JA-2		(-) JA-2balance is $987																 611
+						Agent WT1 withdraws $29from JA-1		(-) JA-1balance is $455																 612
+						Agent WT2 withdraws $96from JA-2		(-) JA-2balance is $891																 613
+						Agent WT4 withdraws $86from JA-1		(-) JA-1balance is $369																 614
+						Agent WT5 withdraws $20from JA-1		(-) JA-1balance is $349																 615
+						Agent WT2 withdraws $48from JA-1		(-) JA-1balance is $301																 616
+						Agent WT1 withdraws $36from JA-1		(-) JA-1balance is $265																 617
+						Agent WT1 withdraws $83from JA-1		(-) JA-1balance is $182																 618
+						Agent WT5 withdraws $44from JA-2		(-) JA-2balance is $847																 619
+						Agent WT4 withdraws $37from JA-1		(-) JA-1balance is $145																 620
+						Agent WT4 withdraws $18from JA-1		(-) JA-1balance is $127																 621
+Agent DT4 deposits $24 into: JA-2					(+) JA-2balance is $871																		 622
+						Agent WT1 withdraws $91from JA-2		(-) JA-2balance is $780																 623
+						Agent WT2 withdraws $18from JA-1		(-) JA-1balance is $109																 624
+						Agent WT4 withdraws $85from JA-2		(-) JA-2balance is $695																 625
+						Agent WT2 withdraws $11from JA-1		(-) JA-1balance is $98																 626
+						Agent WT5 withdraws $89from JA-1		(-) JA-1balance is $9																 627
+						Agent WT1 attempts to withdraw $81 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+						Agent WT2 attempts to withdraw $36 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+						Agent WT6 withdraws $67from JA-2		(-) JA-2balance is $628																 628
+						Agent WT4 withdraws $25from JA-2		(-) JA-2balance is $603																 629
+						Agent WT5 attempts to withdraw $32 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+						Agent WT6 attempts to withdraw $65 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+						Agent WT4 withdraws $86from JA-2		(-) JA-2balance is $517																 630
+						Agent WT4 withdraws $15from JA-2		(-) JA-2balance is $502																 631
+						Agent WT4 withdraws $24from JA-2		(-) JA-2balance is $478																 632
+						Agent WT4 withdraws $4from JA-2		(-) JA-2balance is $474																 633
+						Agent WT4 attempts to withdraw $23 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $9
+
+Agent DT4 deposits $326 into: JA-1					(+) JA-1balance is $335																		 634
+						Agent WT9 withdraws $82from JA-1		(-) JA-1balance is $253																 635
+						Agent WT9 withdraws $73from JA-1		(-) JA-1balance is $180																 636
+						Agent WT9 withdraws $78from JA-2		(-) JA-2balance is $396																 637
+						Agent WT9 withdraws $58from JA-1		(-) JA-1balance is $122																 638
+						Agent WT9 withdraws $91from JA-2		(-) JA-2balance is $305																 639
+						Agent WT9 withdraws $39from JA-2		(-) JA-2balance is $266																 640
+						Agent WT9 withdraws $67from JA-2		(-) JA-2balance is $199																 641
+						Agent WT9 withdraws $59from JA-2		(-) JA-2balance is $140																 642
+						Agent WT9 withdraws $63from JA-1		(-) JA-1balance is $59																 643
+						Agent WT9 withdraws $42from JA-1		(-) JA-1balance is $17																 644
+						Agent WT9 attempts to withdraw $30 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $17
+
+
+********************************************************************************************
+
+
+Internal Bank Audit Beginning...
+
+		The total number of transactions since the last Internal audit is: 417
+
+		INTERNAL BANK AUDITOR FINDS CURRETN ACCOUNT BALANCE FOR JA-1 TO BE: $17
+		INTERNAL BANK AUDITOR FINDS CURRETN ACCOUNT BALANCE FOR JA-1 TO BE: $140
+
+Internal Bank Audit Complete.
+
+
+********************************************************************************************
+
+
+Agent DT2 deposits $439 into: JA-1					(+) JA-1balance is $456																		 645
+						Agent WT7 withdraws $83from JA-1		(-) JA-1balance is $373																 646
+						Agent WT7 withdraws $91from JA-2		(-) JA-2balance is $49																 647
+Agent DT2 deposits $179 into: JA-1					(+) JA-1balance is $552																		 648
+						Agent WT7 withdraws $30from JA-2		(-) JA-2balance is $19																 649
+Agent DT3 deposits $136 into: JA-1					(+) JA-1balance is $688																		 650
+Agent DT3 deposits $263 into: JA-2					(+) JA-2balance is $282																		 651
+						Agent WT7 withdraws $18from JA-2		(-) JA-2balance is $264																 652
+						Agent WT3 withdraws $64from JA-2		(-) JA-2balance is $200																 653
+						Agent WT10 withdraws $63from JA-2		(-) JA-2balance is $137																 654
+						Agent WT7 withdraws $56from JA-1		(-) JA-1balance is $632																 655
+						Agent WT3 withdraws $70from JA-2		(-) JA-2balance is $67																 656
+						Agent WT7 withdraws $13from JA-1		(-) JA-1balance is $619																 657
+						Agent WT10 withdraws $81from JA-1		(-) JA-1balance is $538																 658
+						Agent WT3 withdraws $65from JA-2		(-) JA-2balance is $2																 659
+Agent DT1 deposits $369 into: JA-2					(+) JA-2balance is $371																		 660
+						Agent WT7 withdraws $19from JA-2		(-) JA-2balance is $352																 661
+						Agent WT7 withdraws $14from JA-1		(-) JA-1balance is $524																 662
+Agent DT4 deposits $351 into: JA-2					(+) JA-2balance is $703																		 663
+						Agent WT10 withdraws $22from JA-2		(-) JA-2balance is $681																 664
+						Agent WT3 withdraws $58from JA-2		(-) JA-2balance is $623																 665
+						Agent WT3 withdraws $34from JA-1		(-) JA-1balance is $490																 666
+						Agent WT10 withdraws $84from JA-1		(-) JA-1balance is $406																 667
+						Agent WT7 withdraws $92from JA-2		(-) JA-2balance is $531																 668
+						Agent WT3 withdraws $45from JA-1		(-) JA-1balance is $361																 669
+						Agent WT10 withdraws $93from JA-2		(-) JA-2balance is $438																 670
+						Agent WT3 withdraws $66from JA-2		(-) JA-2balance is $372																 671
+						Agent WT10 withdraws $53from JA-2		(-) JA-2balance is $319																 672
+Agent DT5 deposits $382 into: JA-2					(+) JA-2balance is $701																		 673
+						Agent WT7 withdraws $21from JA-1		(-) JA-1balance is $340																 674
+						Agent WT3 withdraws $61from JA-2		(-) JA-2balance is $640																 675
+						Agent WT10 withdraws $57from JA-1		(-) JA-1balance is $283																 676
+						Agent WT3 withdraws $21from JA-1		(-) JA-1balance is $262																 677
+						Agent WT7 withdraws $36from JA-1		(-) JA-1balance is $226																 678
+						Agent WT7 withdraws $87from JA-1		(-) JA-1balance is $139																 679
+						Agent WT10 withdraws $73from JA-2		(-) JA-2balance is $567																 680
+						Agent WT3 withdraws $83from JA-2		(-) JA-2balance is $484																 681
+						Agent WT3 withdraws $48from JA-2		(-) JA-2balance is $436																 682
+						Agent WT7 withdraws $60from JA-1		(-) JA-1balance is $79																 683
+						Agent WT3 withdraws $47from JA-1		(-) JA-1balance is $32																 684
+						Agent WT7 attempts to withdraw $55 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $32
+
+						Agent WT3 withdraws $4from JA-1		(-) JA-1balance is $28																 685
+						Agent WT10 withdraws $29from JA-2		(-) JA-2balance is $407																 686
+						Agent WT10 withdraws $8from JA-1		(-) JA-1balance is $20																 687
+						Agent WT3 attempts to withdraw $67 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $20
+
+						Agent WT10 withdraws $9from JA-2		(-) JA-2balance is $398																 688
+						Agent WT10 attempts to withdraw $64 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $20
+
+Agent DT4 deposits $443 into: JA-2					(+) JA-2balance is $841																		 689
+Agent DT5 deposits $278 into: JA-2					(+) JA-2balance is $1119																		 690
+Agent DT2 deposits $473 into: JA-2					(+) JA-2balance is $1592																		 691
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+Agent DT3 deposits $37 into: JA-1					(+) JA-1balance is $57																		 692
+						Agent WT8 withdraws $40from JA-1		(-) JA-1balance is $17																 693
+						Agent WT8 withdraws $52from JA-2		(-) JA-2balance is $1540																 694
+Agent DT3 deposits $102 into: JA-2					(+) JA-2balance is $1642																		 695
+						Agent WT8 attempts to withdraw $27 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $17
+
+
+********************************************************************************************
+
+UNITED STATES DEPARTMENT OF THE TREASURY - Bank Audit Beginning...
+
+	The total number of transction since last Treasury Department audit is: 696
+	TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE FOR JA-1 TO BE: $17
+	TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE FOR JA-2 TO BE: $1642
+
+UNITED STATES DEPARTMENT OF THE TREASURY - Bank Audit Terminated...
+
+
+********************************************************************************************
+
+
+Agent DT1 deposits $484 into: JA-1					(+) JA-1balance is $501																		 696
+* * * Flagged Transaction * * * Agent DT1 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT1 withdraws $30from JA-2		(-) JA-2balance is $1612																 697
+						Agent WT1 withdraws $92from JA-1		(-) JA-1balance is $409																 698
+						Agent WT1 withdraws $91from JA-2		(-) JA-2balance is $1521																 699
+						Agent WT1 withdraws $80from JA-1		(-) JA-1balance is $329																 700
+						Agent WT1 withdraws $66from JA-2		(-) JA-2balance is $1455																 701
+						Agent WT1 withdraws $11from JA-2		(-) JA-2balance is $1444																 702
+						Agent WT1 withdraws $53from JA-2		(-) JA-2balance is $1391																 703
+						Agent WT1 withdraws $34from JA-2		(-) JA-2balance is $1357																 704
+						Agent WT1 withdraws $97from JA-1		(-) JA-1balance is $232																 705
+Agent DT4 deposits $130 into: JA-1					(+) JA-1balance is $362																		 706
+						Agent WT1 withdraws $38from JA-2		(-) JA-2balance is $1319																 707
+						Agent WT2 withdraws $25from JA-1		(-) JA-1balance is $337																 708
+						Agent WT1 withdraws $33from JA-1		(-) JA-1balance is $304																 709
+						Agent WT2 withdraws $30from JA-2		(-) JA-2balance is $1289																 710
+						Agent WT1 withdraws $2from JA-2		(-) JA-2balance is $1287																 711
+						Agent WT1 withdraws $61from JA-1		(-) JA-1balance is $243																 712
+						Agent WT2 withdraws $84from JA-2		(-) JA-2balance is $1203																 713
+						Agent WT2 withdraws $62from JA-1		(-) JA-1balance is $181																 714
+						Agent WT1 withdraws $68from JA-2		(-) JA-2balance is $1135																 715
+						Agent WT2 withdraws $99from JA-2		(-) JA-2balance is $1036																 716
+						Agent WT1 withdraws $75from JA-2		(-) JA-2balance is $961																 717
+						Agent WT1 withdraws $98from JA-1		(-) JA-1balance is $83																 718
+Agent DT5 deposits $160 into: JA-1					(+) JA-1balance is $243																		 719
+						Agent WT2 withdraws $81from JA-2		(-) JA-2balance is $880																 720
+						Agent WT1 withdraws $44from JA-1		(-) JA-1balance is $199																 721
+						Agent WT5 withdraws $20from JA-1		(-) JA-1balance is $179																 722
+						Agent WT1 withdraws $83from JA-2		(-) JA-2balance is $797																 723
+		TRANSFER --> Agent TR1 transferring $161 from JA-1 to JA-2 - - JA-2balance is now $18
+		TRANSFER COMPLETE --> Account JA-2 balance is now $958
+
+						Agent WT5 withdraws $43from JA-2		(-) JA-2balance is $915																 725
+						Agent WT2 withdraws $5from JA-1		(-) JA-1balance is $13																 726
+						Agent WT5 withdraws $49from JA-2		(-) JA-2balance is $866																 727
+						Agent WT1 withdraws $80from JA-2		(-) JA-2balance is $786																 728
+						Agent WT1 attempts to withdraw $83 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $13
+
+						Agent WT2 attempts to withdraw $30 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $13
+
+						Agent WT5 withdraws $99from JA-2		(-) JA-2balance is $687																 729
+						Agent WT5 attempts to withdraw $30 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $13
+
+Agent DT1 deposits $41 into: JA-1					(+) JA-1balance is $54																		 730
+						Agent WT6 attempts to withdraw $84 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $54
+
+Agent DT5 deposits $435 into: JA-2					(+) JA-2balance is $1122																		 731
+Agent DT3 deposits $506 into: JA-1					(+) JA-1balance is $560																		 732
+* * * Flagged Transaction * * * Agent DT3 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT4 withdraws $5from JA-1		(-) JA-1balance is $555																 733
+						Agent WT4 withdraws $94from JA-1		(-) JA-1balance is $461																 734
+						Agent WT4 withdraws $85from JA-1		(-) JA-1balance is $376																 735
+						Agent WT4 withdraws $8from JA-1		(-) JA-1balance is $368																 736
+Agent DT2 deposits $320 into: JA-1					(+) JA-1balance is $688																		 737
+						Agent WT4 withdraws $46from JA-2		(-) JA-2balance is $1076																 738
+						Agent WT9 withdraws $90from JA-1		(-) JA-1balance is $598																 739
+						Agent WT4 withdraws $76from JA-1		(-) JA-1balance is $522																 740
+						Agent WT9 withdraws $93from JA-2		(-) JA-2balance is $983																 741
+						Agent WT9 withdraws $71from JA-1		(-) JA-1balance is $451																 742
+						Agent WT9 withdraws $46from JA-2		(-) JA-2balance is $937																 743
+						Agent WT9 withdraws $74from JA-2		(-) JA-2balance is $863																 744
+						Agent WT4 withdraws $75from JA-2		(-) JA-2balance is $788																 745
+						Agent WT9 withdraws $64from JA-1		(-) JA-1balance is $387																 746
+						Agent WT4 withdraws $87from JA-1		(-) JA-1balance is $300																 747
+						Agent WT4 withdraws $91from JA-2		(-) JA-2balance is $697																 748
+						Agent WT9 withdraws $85from JA-1		(-) JA-1balance is $215																 749
+						Agent WT4 withdraws $31from JA-1		(-) JA-1balance is $184																 750
+Agent DT3 deposits $391 into: JA-2					(+) JA-2balance is $1088																		 751
+						Agent WT4 withdraws $3from JA-2		(-) JA-2balance is $1085																 752
+						Agent WT9 withdraws $45from JA-2		(-) JA-2balance is $1040																 753
+						Agent WT9 withdraws $22from JA-2		(-) JA-2balance is $1018																 754
+Agent DT3 deposits $195 into: JA-1					(+) JA-1balance is $379																		 755
+						Agent WT4 withdraws $31from JA-1		(-) JA-1balance is $348																 756
+						Agent WT9 withdraws $89from JA-2		(-) JA-2balance is $929																 757
+						Agent WT4 withdraws $8from JA-1		(-) JA-1balance is $340																 758
+						Agent WT7 withdraws $18from JA-2		(-) JA-2balance is $911																 759
+Agent DT2 deposits $393 into: JA-2					(+) JA-2balance is $1304																		 760
+						Agent WT7 withdraws $5from JA-1		(-) JA-1balance is $335																 761
+						Agent WT4 withdraws $64from JA-1		(-) JA-1balance is $271																 762
+						Agent WT9 withdraws $43from JA-1		(-) JA-1balance is $228																 763
+
+********************************************************************************************
+
+UNITED STATES DEPARTMENT OF THE TREASURY - Bank Audit Beginning...
+
+	The total number of transction since last Treasury Department audit is: 68
+	TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE FOR JA-1 TO BE: $228
+	TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE FOR JA-2 TO BE: $1304
+
+UNITED STATES DEPARTMENT OF THE TREASURY - Bank Audit Terminated...
+
+
+********************************************************************************************
+
+
+						Agent WT7 withdraws $40from JA-2		(-) JA-2balance is $1264																 764
+						Agent WT4 withdraws $72from JA-1		(-) JA-1balance is $156																 765
+						Agent WT9 withdraws $46from JA-1		(-) JA-1balance is $110																 766
+						Agent WT4 withdraws $57from JA-1		(-) JA-1balance is $53																 767
+						Agent WT7 withdraws $28from JA-2		(-) JA-2balance is $1236																 768
+						Agent WT4 withdraws $95from JA-2		(-) JA-2balance is $1141																 769
+						Agent WT9 attempts to withdraw $69 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $53
+
+						Agent WT7 withdraws $21from JA-1		(-) JA-1balance is $32																 770
+						Agent WT4 attempts to withdraw $33 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $32
+
+						Agent WT7 attempts to withdraw $44 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $32
+
+Agent DT4 deposits $132 into: JA-2					(+) JA-2balance is $1273																		 771
+Agent DT2 deposits $587 into: JA-2					(+) JA-2balance is $1860																		 772
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+Agent DT1 deposits $66 into: JA-2					(+) JA-2balance is $1926																		 773
+Agent DT5 deposits $212 into: JA-2					(+) JA-2balance is $2138																		 774
+Agent DT3 deposits $518 into: JA-2					(+) JA-2balance is $2656																		 775
+* * * Flagged Transaction * * * Agent DT3 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+Agent DT4 deposits $439 into: JA-2					(+) JA-2balance is $3095																		 776
+Agent DT2 deposits $320 into: JA-2					(+) JA-2balance is $3415																		 777
+Agent DT3 deposits $475 into: JA-1					(+) JA-1balance is $507																		 778
+* * * Flagged Transaction * * * Agent DT3 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+Agent DT1 deposits $278 into: JA-1					(+) JA-1balance is $785																		 779
+Agent DT1 deposits $280 into: JA-2					(+) JA-2balance is $3695																		 780
+						Agent WT3 withdraws $43from JA-2		(-) JA-2balance is $3652																 781
+						Agent WT10 withdraws $91from JA-1		(-) JA-1balance is $694																 782
+						Agent WT10 withdraws $46from JA-2		(-) JA-2balance is $3606																 783
+						Agent WT3 withdraws $32from JA-2		(-) JA-2balance is $3574																 784
+						Agent WT10 withdraws $91from JA-2		(-) JA-2balance is $3483																 785
+						Agent WT10 withdraws $23from JA-2		(-) JA-2balance is $3460																 786
+						Agent WT3 withdraws $84from JA-2		(-) JA-2balance is $3376																 787
+						Agent WT10 withdraws $95from JA-1		(-) JA-1balance is $599																 788
+						Agent WT3 withdraws $78from JA-2		(-) JA-2balance is $3298																 789
+						Agent WT3 withdraws $33from JA-2		(-) JA-2balance is $3265																 790
+						Agent WT10 withdraws $17from JA-1		(-) JA-1balance is $582																 791
+						Agent WT3 withdraws $57from JA-2		(-) JA-2balance is $3208																 792
+						Agent WT10 withdraws $23from JA-1		(-) JA-1balance is $559																 793
+						Agent WT3 withdraws $7from JA-1		(-) JA-1balance is $552																 794
+						Agent WT3 withdraws $17from JA-1		(-) JA-1balance is $535																 795
+						Agent WT10 withdraws $48from JA-1		(-) JA-1balance is $487																 796
+						Agent WT3 withdraws $95from JA-1		(-) JA-1balance is $392																 797
+						Agent WT10 withdraws $60from JA-1		(-) JA-1balance is $332																 798
+						Agent WT3 withdraws $39from JA-2		(-) JA-2balance is $3169																 799
+						Agent WT10 withdraws $19from JA-1		(-) JA-1balance is $313																 800
+						Agent WT10 withdraws $4from JA-1		(-) JA-1balance is $309																 801
+						Agent WT3 withdraws $99from JA-1		(-) JA-1balance is $210																 802
+						Agent WT10 withdraws $10from JA-1		(-) JA-1balance is $200																 803
+Agent DT5 deposits $89 into: JA-2					(+) JA-2balance is $3258																		 804
+						Agent WT3 withdraws $67from JA-1		(-) JA-1balance is $133																 805
+						Agent WT3 withdraws $55from JA-1		(-) JA-1balance is $78																 806
+						Agent WT10 attempts to withdraw $87 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $78
+
+						Agent WT3 attempts to withdraw $95 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $78
+
+Agent DT1 deposits $496 into: JA-2					(+) JA-2balance is $3754																		 807
+* * * Flagged Transaction * * * Agent DT1 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+Agent DT3 deposits $333 into: JA-2					(+) JA-2balance is $4087																		 808
+		TRANSFER --> Agent TR2 transferring $514 from JA-2 to JA-1 - - JA-1balance is now $3573
+		TRANSFER COMPLETE --> Account JA-1 balance is now $592
+
+* * * Flagged Transaction * * * Agent TR2 Made a Transfer In Excess Of $500.00 USD - See Flagged Transaction Log.
+
+Agent DT5 deposits $37 into: JA-2					(+) JA-2balance is $3610																		 810
+Agent DT2 deposits $407 into: JA-1					(+) JA-1balance is $999																		 811
+						Agent WT8 withdraws $88from JA-2		(-) JA-2balance is $3522																 812
+						Agent WT8 withdraws $48from JA-1		(-) JA-1balance is $951																 813
+						Agent WT8 withdraws $7from JA-2		(-) JA-2balance is $3515																 814
+						Agent WT8 withdraws $25from JA-1		(-) JA-1balance is $926																 815
+						Agent WT8 withdraws $55from JA-1		(-) JA-1balance is $871																 816
+						Agent WT8 withdraws $49from JA-1		(-) JA-1balance is $822																 817
+
+********************************************************************************************
+
+
+Internal Bank Audit Beginning...
+
+		The total number of transactions since the last Internal audit is: 173
+
+		INTERNAL BANK AUDITOR FINDS CURRETN ACCOUNT BALANCE FOR JA-1 TO BE: $822
+		INTERNAL BANK AUDITOR FINDS CURRETN ACCOUNT BALANCE FOR JA-1 TO BE: $3515
+
+Internal Bank Audit Complete.
+
+
+********************************************************************************************
+
+
+						Agent WT8 withdraws $10from JA-2		(-) JA-2balance is $3505																 818
+						Agent WT8 withdraws $80from JA-2		(-) JA-2balance is $3425																 819
+Agent DT1 deposits $242 into: JA-2					(+) JA-2balance is $3667																		 820
+						Agent WT8 withdraws $14from JA-2		(-) JA-2balance is $3653																 821
+						Agent WT8 withdraws $22from JA-2		(-) JA-2balance is $3631																 822
+						Agent WT8 withdraws $26from JA-1		(-) JA-1balance is $796																 823
+Agent DT4 deposits $24 into: JA-1					(+) JA-1balance is $820																		 824
+						Agent WT1 withdraws $98from JA-2		(-) JA-2balance is $3533																 825
+						Agent WT8 withdraws $88from JA-2		(-) JA-2balance is $3445																 826
+						Agent WT8 withdraws $6from JA-1		(-) JA-1balance is $814																 827
+						Agent WT1 withdraws $20from JA-2		(-) JA-2balance is $3425																 828
+						Agent WT1 withdraws $86from JA-2		(-) JA-2balance is $3339																 829
+						Agent WT8 withdraws $12from JA-2		(-) JA-2balance is $3327																 830
+						Agent WT1 withdraws $14from JA-1		(-) JA-1balance is $800																 831
+						Agent WT1 withdraws $24from JA-2		(-) JA-2balance is $3303																 832
+						Agent WT8 withdraws $42from JA-1		(-) JA-1balance is $758																 833
+						Agent WT8 withdraws $67from JA-2		(-) JA-2balance is $3236																 834
+						Agent WT8 withdraws $9from JA-2		(-) JA-2balance is $3227																 835
+						Agent WT1 withdraws $80from JA-1		(-) JA-1balance is $678																 836
+						Agent WT8 withdraws $16from JA-2		(-) JA-2balance is $3211																 837
+						Agent WT8 withdraws $78from JA-1		(-) JA-1balance is $600																 838
+						Agent WT8 withdraws $78from JA-2		(-) JA-2balance is $3133																 839
+Agent DT2 deposits $142 into: JA-2					(+) JA-2balance is $3275																		 840
+						Agent WT1 withdraws $3from JA-1		(-) JA-1balance is $597																 841
+						Agent WT8 withdraws $6from JA-2		(-) JA-2balance is $3269																 842
+		TRANSFER --> Agent TR1 transferring $285 from JA-1 to JA-2 - - JA-2balance is now $312
+		TRANSFER COMPLETE --> Account JA-2 balance is now $3554
+
+						Agent WT8 withdraws $96from JA-2		(-) JA-2balance is $3458																 844
+						Agent WT1 withdraws $7from JA-1		(-) JA-1balance is $305																 845
+						Agent WT1 withdraws $25from JA-2		(-) JA-2balance is $3433																 846
+						Agent WT1 withdraws $78from JA-2		(-) JA-2balance is $3355																 847
+						Agent WT8 withdraws $85from JA-1		(-) JA-1balance is $220																 848
+						Agent WT1 withdraws $28from JA-2		(-) JA-2balance is $3327																 849
+						Agent WT1 withdraws $55from JA-2		(-) JA-2balance is $3272																 850
+						Agent WT8 withdraws $6from JA-1		(-) JA-1balance is $214																 851
+						Agent WT8 withdraws $68from JA-1		(-) JA-1balance is $146																 852
+						Agent WT1 withdraws $80from JA-1		(-) JA-1balance is $66																 853
+						Agent WT1 attempts to withdraw $89 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $66
+
+						Agent WT8 withdraws $33from JA-1		(-) JA-1balance is $33																 854
+						Agent WT8 withdraws $32from JA-2		(-) JA-2balance is $3240																 855
+						Agent WT8 withdraws $3from JA-2		(-) JA-2balance is $3237																 856
+						Agent WT8 attempts to withdraw $71 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $33
+
+Agent DT3 deposits $337 into: JA-1					(+) JA-1balance is $370																		 857
+						Agent WT2 withdraws $63from JA-2		(-) JA-2balance is $3174																 858
+						Agent WT2 withdraws $17from JA-2		(-) JA-2balance is $3157																 859
+						Agent WT2 withdraws $80from JA-2		(-) JA-2balance is $3077																 860
+Agent DT5 deposits $143 into: JA-1					(+) JA-1balance is $513																		 861
+Agent DT1 deposits $63 into: JA-2					(+) JA-2balance is $3140																		 862
+						Agent WT5 withdraws $50from JA-1		(-) JA-1balance is $463																 863
+						Agent WT2 withdraws $88from JA-2		(-) JA-2balance is $3052																 864
+						Agent WT2 withdraws $30from JA-1		(-) JA-1balance is $433																 865
+						Agent WT5 withdraws $31from JA-2		(-) JA-2balance is $3021																 866
+						Agent WT5 withdraws $42from JA-2		(-) JA-2balance is $2979																 867
+						Agent WT2 withdraws $28from JA-1		(-) JA-1balance is $405																 868
+						Agent WT5 withdraws $32from JA-1		(-) JA-1balance is $373																 869
+Agent DT2 deposits $162 into: JA-1					(+) JA-1balance is $535																		 870
+						Agent WT2 withdraws $66from JA-2		(-) JA-2balance is $2913																 871
+						Agent WT5 withdraws $25from JA-1		(-) JA-1balance is $510																 872
+						Agent WT6 withdraws $88from JA-1		(-) JA-1balance is $422																 873
+						Agent WT2 withdraws $23from JA-2		(-) JA-2balance is $2890																 874
+						Agent WT6 withdraws $90from JA-2		(-) JA-2balance is $2800																 875
+						Agent WT5 withdraws $69from JA-1		(-) JA-1balance is $353																 876
+						Agent WT5 withdraws $96from JA-1		(-) JA-1balance is $257																 877
+						Agent WT6 withdraws $98from JA-1		(-) JA-1balance is $159																 878
+						Agent WT2 withdraws $52from JA-2		(-) JA-2balance is $2748																 879
+						Agent WT5 withdraws $29from JA-2		(-) JA-2balance is $2719																 880
+						Agent WT5 withdraws $25from JA-1		(-) JA-1balance is $134																 881
+						Agent WT6 withdraws $82from JA-1		(-) JA-1balance is $52																 882
+						Agent WT2 withdraws $84from JA-2		(-) JA-2balance is $2635																 883
+						Agent WT5 withdraws $38from JA-1		(-) JA-1balance is $14																 884
+						Agent WT2 attempts to withdraw $38 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+						Agent WT6 attempts to withdraw $75 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+						Agent WT5 attempts to withdraw $70 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+Agent DT5 deposits $301 into: JA-2					(+) JA-2balance is $2936																		 885
+Agent DT4 deposits $464 into: JA-1					(+) JA-1balance is $478																		 886
+* * * Flagged Transaction * * * Agent DT4 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT9 withdraws $22from JA-1		(-) JA-1balance is $456																 887
+						Agent WT9 withdraws $15from JA-1		(-) JA-1balance is $441																 888
+						Agent WT9 withdraws $55from JA-1		(-) JA-1balance is $386																 889
+						Agent WT9 withdraws $5from JA-1		(-) JA-1balance is $381																 890
+						Agent WT9 withdraws $13from JA-2		(-) JA-2balance is $2923																 891
+						Agent WT9 withdraws $72from JA-1		(-) JA-1balance is $309																 892
+						Agent WT9 withdraws $99from JA-1		(-) JA-1balance is $210																 893
+						Agent WT9 withdraws $52from JA-2		(-) JA-2balance is $2871																 894
+						Agent WT9 withdraws $83from JA-1		(-) JA-1balance is $127																 895
+						Agent WT9 withdraws $29from JA-1		(-) JA-1balance is $98																 896
+						Agent WT9 withdraws $18from JA-2		(-) JA-2balance is $2853																 897
+Agent DT4 deposits $209 into: JA-2					(+) JA-2balance is $3062																		 898
+Agent DT2 deposits $304 into: JA-1					(+) JA-1balance is $402																		 899
+						Agent WT4 withdraws $5from JA-2		(-) JA-2balance is $3057																 900
+						Agent WT9 withdraws $25from JA-2		(-) JA-2balance is $3032																 901
+						Agent WT9 withdraws $71from JA-1		(-) JA-1balance is $331																 902
+Agent DT3 deposits $405 into: JA-2					(+) JA-2balance is $3437																		 903
+						Agent WT4 withdraws $72from JA-1		(-) JA-1balance is $259																 904
+						Agent WT4 withdraws $41from JA-1		(-) JA-1balance is $218																 905
+						Agent WT4 withdraws $38from JA-2		(-) JA-2balance is $3399																 906
+						Agent WT9 withdraws $78from JA-2		(-) JA-2balance is $3321																 907
+						Agent WT4 withdraws $95from JA-2		(-) JA-2balance is $3226																 908
+						Agent WT4 withdraws $10from JA-2		(-) JA-2balance is $3216																 909
+						Agent WT9 withdraws $20from JA-2		(-) JA-2balance is $3196																 910
+						Agent WT9 withdraws $45from JA-1		(-) JA-1balance is $173																 911
+						Agent WT4 withdraws $88from JA-2		(-) JA-2balance is $3108																 912
+						Agent WT4 withdraws $80from JA-2		(-) JA-2balance is $3028																 913
+						Agent WT9 withdraws $88from JA-1		(-) JA-1balance is $85																 914
+						Agent WT4 attempts to withdraw $95 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $85
+
+						Agent WT9 withdraws $38from JA-1		(-) JA-1balance is $47																 915
+						Agent WT9 attempts to withdraw $72 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $47
+
+Agent DT5 deposits $478 into: JA-1					(+) JA-1balance is $525																		 916
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT7 withdraws $69from JA-2		(-) JA-2balance is $2959																 917
+						Agent WT7 withdraws $28from JA-2		(-) JA-2balance is $2931																 918
+						Agent WT7 withdraws $30from JA-1		(-) JA-1balance is $495																 919
+						Agent WT7 withdraws $47from JA-1		(-) JA-1balance is $448																 920
+						Agent WT7 withdraws $37from JA-1		(-) JA-1balance is $411																 921
+						Agent WT7 withdraws $92from JA-2		(-) JA-2balance is $2839																 922
+Agent DT1 deposits $54 into: JA-2					(+) JA-2balance is $2893																		 923
+						Agent WT7 withdraws $70from JA-2		(-) JA-2balance is $2823																 924
+						Agent WT7 withdraws $82from JA-1		(-) JA-1balance is $329																 925
+						Agent WT7 withdraws $26from JA-1		(-) JA-1balance is $303																 926
+						Agent WT7 withdraws $30from JA-1		(-) JA-1balance is $273																 927
+						Agent WT7 withdraws $21from JA-2		(-) JA-2balance is $2802																 928
+						Agent WT7 withdraws $63from JA-1		(-) JA-1balance is $210																 929
+						Agent WT7 withdraws $96from JA-1		(-) JA-1balance is $114																 930
+						Agent WT7 withdraws $39from JA-1		(-) JA-1balance is $75																 931
+						Agent WT7 withdraws $76from JA-2		(-) JA-2balance is $2726																 932
+						Agent WT7 withdraws $68from JA-1		(-) JA-1balance is $7																 933
+						Agent WT7 withdraws $21from JA-2		(-) JA-2balance is $2705																 934
+						Agent WT7 attempts to withdraw $39 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $7
+
+Agent DT1 deposits $135 into: JA-2					(+) JA-2balance is $2840																		 935
+Agent DT1 deposits $200 into: JA-1					(+) JA-1balance is $207																		 936
+						Agent WT10 withdraws $27from JA-1		(-) JA-1balance is $180																 937
+						Agent WT10 withdraws $82from JA-1		(-) JA-1balance is $98																 938
+						Agent WT10 withdraws $13from JA-2		(-) JA-2balance is $2827																 939
+						Agent WT10 withdraws $39from JA-1		(-) JA-1balance is $59																 940
+Agent DT4 deposits $258 into: JA-2					(+) JA-2balance is $3085																		 941
+						Agent WT10 withdraws $93from JA-2		(-) JA-2balance is $2992																 942
+						Agent WT10 attempts to withdraw $79 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $59
+
+Agent DT1 deposits $89 into: JA-1					(+) JA-1balance is $148																		 943
+						Agent WT3 withdraws $78from JA-1		(-) JA-1balance is $70																 944
+						Agent WT3 attempts to withdraw $90 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $70
+
+Agent DT2 deposits $553 into: JA-2					(+) JA-2balance is $3545																		 945
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+Agent DT3 deposits $384 into: JA-2					(+) JA-2balance is $3929																		 946
+Agent DT5 deposits $442 into: JA-1					(+) JA-1balance is $512																		 947
+						Agent WT1 withdraws $73from JA-2		(-) JA-2balance is $3856																 948
+						Agent WT1 withdraws $23from JA-2		(-) JA-2balance is $3833																 949
+						Agent WT1 withdraws $5from JA-1		(-) JA-1balance is $507																 950
+						Agent WT1 withdraws $63from JA-1		(-) JA-1balance is $444																 951
+						Agent WT1 withdraws $66from JA-1		(-) JA-1balance is $378																 952
+						Agent WT1 withdraws $88from JA-2		(-) JA-2balance is $3745																 953
+						Agent WT1 withdraws $76from JA-2		(-) JA-2balance is $3669																 954
+						Agent WT1 withdraws $54from JA-2		(-) JA-2balance is $3615																 955
+						Agent WT1 withdraws $65from JA-2		(-) JA-2balance is $3550																 956
+						Agent WT1 withdraws $41from JA-2		(-) JA-2balance is $3509																 957
+						Agent WT1 withdraws $54from JA-2		(-) JA-2balance is $3455																 958
+Agent DT1 deposits $575 into: JA-1					(+) JA-1balance is $953																		 959
+* * * Flagged Transaction * * * Agent DT1 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+Agent DT5 deposits $506 into: JA-1					(+) JA-1balance is $1459																		 960
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT1 withdraws $40from JA-2		(-) JA-2balance is $3415																 961
+						Agent WT8 withdraws $49from JA-2		(-) JA-2balance is $3366																 962
+						Agent WT2 withdraws $40from JA-1		(-) JA-1balance is $1419																 963
+						Agent WT1 withdraws $95from JA-1		(-) JA-1balance is $1324																 964
+						Agent WT2 withdraws $55from JA-1		(-) JA-1balance is $1269																 965
+						Agent WT8 withdraws $16from JA-1		(-) JA-1balance is $1253																 966
+						Agent WT1 withdraws $27from JA-2		(-) JA-2balance is $3339																 967
+						Agent WT2 withdraws $49from JA-1		(-) JA-1balance is $1204																 968
+						Agent WT8 withdraws $10from JA-1		(-) JA-1balance is $1194																 969
+						Agent WT1 withdraws $26from JA-2		(-) JA-2balance is $3313																 970
+						Agent WT1 withdraws $68from JA-2		(-) JA-2balance is $3245																 971
+						Agent WT2 withdraws $77from JA-1		(-) JA-1balance is $1117																 972
+						Agent WT8 withdraws $73from JA-1		(-) JA-1balance is $1044																 973
+Agent DT1 deposits $315 into: JA-2					(+) JA-2balance is $3560																		 974
+						Agent WT8 withdraws $76from JA-2		(-) JA-2balance is $3484																 975
+						Agent WT1 withdraws $9from JA-2		(-) JA-2balance is $3475																 976
+						Agent WT2 withdraws $69from JA-2		(-) JA-2balance is $3406																 977
+						Agent WT8 withdraws $11from JA-1		(-) JA-1balance is $1033																 978
+						Agent WT8 withdraws $5from JA-1		(-) JA-1balance is $1028																 979
+						Agent WT2 withdraws $68from JA-2		(-) JA-2balance is $3338																 980
+						Agent WT1 withdraws $51from JA-1		(-) JA-1balance is $977																 981
+						Agent WT1 withdraws $34from JA-2		(-) JA-2balance is $3304																 982
+						Agent WT2 withdraws $33from JA-2		(-) JA-2balance is $3271																 983
+						Agent WT8 withdraws $97from JA-1		(-) JA-1balance is $880																 984
+						Agent WT2 withdraws $43from JA-2		(-) JA-2balance is $3228																 985
+						Agent WT1 withdraws $35from JA-1		(-) JA-1balance is $845																 986
+						Agent WT2 withdraws $96from JA-2		(-) JA-2balance is $3132																 987
+						Agent WT8 withdraws $82from JA-1		(-) JA-1balance is $763																 988
+						Agent WT1 withdraws $80from JA-1		(-) JA-1balance is $683																 989
+						Agent WT2 withdraws $66from JA-1		(-) JA-1balance is $617																 990
+						Agent WT8 withdraws $76from JA-2		(-) JA-2balance is $3056																 991
+						Agent WT1 withdraws $65from JA-1		(-) JA-1balance is $552																 992
+						Agent WT2 withdraws $7from JA-1		(-) JA-1balance is $545																 993
+						Agent WT2 withdraws $32from JA-2		(-) JA-2balance is $3024																 994
+						Agent WT8 withdraws $65from JA-2		(-) JA-2balance is $2959																 995
+						Agent WT8 withdraws $89from JA-1		(-) JA-1balance is $456																 996
+						Agent WT8 withdraws $4from JA-1		(-) JA-1balance is $452																 997
+						Agent WT1 withdraws $81from JA-2		(-) JA-2balance is $2878																 998
+						Agent WT2 withdraws $31from JA-1		(-) JA-1balance is $421																 999
+Agent DT5 deposits $552 into: JA-1					(+) JA-1balance is $973																		 1000
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT8 withdraws $78from JA-1		(-) JA-1balance is $895																 1001
+						Agent WT1 withdraws $16from JA-2		(-) JA-2balance is $2862																 1002
+						Agent WT8 withdraws $77from JA-2		(-) JA-2balance is $2785																 1003
+						Agent WT6 withdraws $2from JA-2		(-) JA-2balance is $2783																 1004
+						Agent WT2 withdraws $26from JA-1		(-) JA-1balance is $869																 1005
+						Agent WT1 withdraws $94from JA-2		(-) JA-2balance is $2689																 1006
+						Agent WT8 withdraws $86from JA-2		(-) JA-2balance is $2603																 1007
+						Agent WT8 withdraws $86from JA-1		(-) JA-1balance is $783																 1008
+						Agent WT6 withdraws $6from JA-2		(-) JA-2balance is $2597																 1009
+						Agent WT1 withdraws $88from JA-1		(-) JA-1balance is $695																 1010
+						Agent WT2 withdraws $47from JA-2		(-) JA-2balance is $2550																 1011
+						Agent WT1 withdraws $91from JA-1		(-) JA-1balance is $604																 1012
+						Agent WT8 withdraws $49from JA-1		(-) JA-1balance is $555																 1013
+						Agent WT2 withdraws $76from JA-1		(-) JA-1balance is $479																 1014
+						Agent WT8 withdraws $51from JA-1		(-) JA-1balance is $428																 1015
+						Agent WT6 withdraws $94from JA-1		(-) JA-1balance is $334																 1016
+						Agent WT1 withdraws $16from JA-1		(-) JA-1balance is $318																 1017
+						Agent WT2 withdraws $87from JA-1		(-) JA-1balance is $231																 1018
+Agent DT4 deposits $248 into: JA-2					(+) JA-2balance is $2798																		 1019
+Agent DT4 deposits $94 into: JA-2					(+) JA-2balance is $2892																		 1020
+						Agent WT8 withdraws $10from JA-2		(-) JA-2balance is $2882																 1021
+						Agent WT2 withdraws $41from JA-2		(-) JA-2balance is $2841																 1022
+						Agent WT1 withdraws $66from JA-2		(-) JA-2balance is $2775																 1023
+						Agent WT6 withdraws $62from JA-2		(-) JA-2balance is $2713																 1024
+						Agent WT6 withdraws $12from JA-2		(-) JA-2balance is $2701																 1025
+						Agent WT8 withdraws $33from JA-1		(-) JA-1balance is $198																 1026
+						Agent WT8 withdraws $75from JA-1		(-) JA-1balance is $123																 1027
+						Agent WT2 withdraws $32from JA-2		(-) JA-2balance is $2669																 1028
+						Agent WT1 withdraws $1from JA-2		(-) JA-2balance is $2668																 1029
+						Agent WT2 withdraws $92from JA-1		(-) JA-1balance is $31																 1030
+						Agent WT8 attempts to withdraw $91 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $31
+
+						Agent WT6 attempts to withdraw $62 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $31
+
+						Agent WT1 withdraws $9from JA-1		(-) JA-1balance is $22																 1031
+						Agent WT2 withdraws $69from JA-2		(-) JA-2balance is $2599																 1032
+						Agent WT2 attempts to withdraw $58 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $22
+
+						Agent WT1 withdraws $13from JA-2		(-) JA-2balance is $2586																 1033
+						Agent WT1 attempts to withdraw $79 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $22
+
+Agent DT3 deposits $336 into: JA-1					(+) JA-1balance is $358																		 1034
+						Agent WT5 withdraws $12from JA-2		(-) JA-2balance is $2574																 1035
+						Agent WT5 withdraws $81from JA-2		(-) JA-2balance is $2493																 1036
+						Agent WT5 withdraws $42from JA-2		(-) JA-2balance is $2451																 1037
+						Agent WT5 withdraws $52from JA-1		(-) JA-1balance is $306																 1038
+						Agent WT5 withdraws $36from JA-2		(-) JA-2balance is $2415																 1039
+						Agent WT5 withdraws $65from JA-2		(-) JA-2balance is $2350																 1040
+						Agent WT5 withdraws $99from JA-1		(-) JA-1balance is $207																 1041
+						Agent WT5 withdraws $94from JA-2		(-) JA-2balance is $2256																 1042
+						Agent WT5 withdraws $50from JA-1		(-) JA-1balance is $157																 1043
+						Agent WT5 withdraws $34from JA-2		(-) JA-2balance is $2222																 1044
+Agent DT5 deposits $324 into: JA-1					(+) JA-1balance is $481																		 1045
+						Agent WT5 withdraws $43from JA-2		(-) JA-2balance is $2179																 1046
+						Agent WT4 withdraws $25from JA-1		(-) JA-1balance is $456																 1047
+Agent DT3 deposits $457 into: JA-2					(+) JA-2balance is $2636																		 1048
+* * * Flagged Transaction * * * Agent DT3 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT5 withdraws $71from JA-2		(-) JA-2balance is $2565																 1049
+						Agent WT4 withdraws $42from JA-2		(-) JA-2balance is $2523																 1050
+						Agent WT5 withdraws $53from JA-1		(-) JA-1balance is $403																 1051
+						Agent WT5 withdraws $71from JA-2		(-) JA-2balance is $2452																 1052
+						Agent WT4 withdraws $50from JA-1		(-) JA-1balance is $353																 1053
+						Agent WT5 withdraws $40from JA-2		(-) JA-2balance is $2412																 1054
+Agent DT1 deposits $249 into: JA-2					(+) JA-2balance is $2661																		 1055
+						Agent WT4 withdraws $34from JA-2		(-) JA-2balance is $2627																 1056
+						Agent WT4 withdraws $13from JA-1		(-) JA-1balance is $340																 1057
+						Agent WT5 withdraws $76from JA-2		(-) JA-2balance is $2551																 1058
+						Agent WT4 withdraws $3from JA-2		(-) JA-2balance is $2548																 1059
+						Agent WT5 withdraws $96from JA-2		(-) JA-2balance is $2452																 1060
+						Agent WT5 withdraws $50from JA-2		(-) JA-2balance is $2402																 1061
+Agent DT5 deposits $512 into: JA-2					(+) JA-2balance is $2914																		 1062
+* * * Flagged Transaction * * * Agent DT5 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT5 withdraws $39from JA-1		(-) JA-1balance is $301																 1063
+						Agent WT4 withdraws $79from JA-2		(-) JA-2balance is $2835																 1064
+						Agent WT5 withdraws $62from JA-2		(-) JA-2balance is $2773																 1065
+Agent DT2 deposits $562 into: JA-1					(+) JA-1balance is $863																		 1066
+* * * Flagged Transaction * * * Agent DT2 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT5 withdraws $35from JA-1		(-) JA-1balance is $828																 1067
+						Agent WT9 withdraws $11from JA-1		(-) JA-1balance is $817																 1068
+Agent DT3 deposits $276 into: JA-1					(+) JA-1balance is $1093																		 1069
+						Agent WT7 withdraws $67from JA-1		(-) JA-1balance is $1026																 1070
+						Agent WT5 withdraws $6from JA-1		(-) JA-1balance is $1020																 1071
+						Agent WT9 withdraws $95from JA-1		(-) JA-1balance is $925																 1072
+						Agent WT4 withdraws $10from JA-2		(-) JA-2balance is $2763																 1073
+						Agent WT9 withdraws $60from JA-2		(-) JA-2balance is $2703																 1074
+						Agent WT5 withdraws $7from JA-1		(-) JA-1balance is $918																 1075
+						Agent WT4 withdraws $94from JA-1		(-) JA-1balance is $824																 1076
+						Agent WT7 withdraws $85from JA-2		(-) JA-2balance is $2618																 1077
+						Agent WT4 withdraws $43from JA-1		(-) JA-1balance is $781																 1078
+						Agent WT9 withdraws $10from JA-1		(-) JA-1balance is $771																 1079
+						Agent WT4 withdraws $59from JA-2		(-) JA-2balance is $2559																 1080
+Agent DT4 deposits $456 into: JA-2					(+) JA-2balance is $3015																		 1081
+* * * Flagged Transaction * * * Agent DT4 Made a Deposit In Excess Of $450.00 USD - See Flagged Transaction Log.
+
+						Agent WT9 withdraws $37from JA-2		(-) JA-2balance is $2978																 1082
+						Agent WT5 withdraws $30from JA-1		(-) JA-1balance is $741																 1083
+						Agent WT9 withdraws $96from JA-2		(-) JA-2balance is $2882																 1084
+						Agent WT5 withdraws $89from JA-1		(-) JA-1balance is $652																 1085
+						Agent WT7 withdraws $91from JA-1		(-) JA-1balance is $561																 1086
+						Agent WT4 withdraws $99from JA-1		(-) JA-1balance is $462																 1087
+						Agent WT5 withdraws $27from JA-1		(-) JA-1balance is $435																 1088
+						Agent WT7 withdraws $6from JA-1		(-) JA-1balance is $429																 1089
+						Agent WT9 withdraws $46from JA-2		(-) JA-2balance is $2836																 1090
+						Agent WT7 withdraws $17from JA-1		(-) JA-1balance is $412																 1091
+						Agent WT5 withdraws $1from JA-1		(-) JA-1balance is $411																 1092
+						Agent WT5 withdraws $86from JA-2		(-) JA-2balance is $2750																 1093
+						Agent WT4 withdraws $39from JA-1		(-) JA-1balance is $372																 1094
+						Agent WT4 withdraws $60from JA-1		(-) JA-1balance is $312																 1095
+						Agent WT9 withdraws $18from JA-2		(-) JA-2balance is $2732																 1096
+						Agent WT4 withdraws $31from JA-2		(-) JA-2balance is $2701																 1097
+						Agent WT5 withdraws $86from JA-2		(-) JA-2balance is $2615																 1098
+						Agent WT7 withdraws $93from JA-1		(-) JA-1balance is $219																 1099
+						Agent WT9 withdraws $33from JA-2		(-) JA-2balance is $2582																 1100
+						Agent WT5 withdraws $52from JA-1		(-) JA-1balance is $167																 1101
+						Agent WT7 withdraws $14from JA-1		(-) JA-1balance is $153																 1102
+						Agent WT4 withdraws $47from JA-1		(-) JA-1balance is $106																 1103
+						Agent WT4 withdraws $9from JA-1		(-) JA-1balance is $97																 1104
+						Agent WT5 withdraws $80from JA-1		(-) JA-1balance is $17																 1105
+						Agent WT5 withdraws $29from JA-2		(-) JA-2balance is $2553																 1106
+						Agent WT9 attempts to withdraw $74 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $17
+
+						Agent WT7 withdraws $1from JA-1		(-) JA-1balance is $16																 1107
+						Agent WT4 attempts to withdraw $62 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $16
+
+
+********************************************************************************************
+
+UNITED STATES DEPARTMENT OF THE TREASURY - Bank Audit Beginning...
+
+	The total number of transction since last Treasury Department audit is: 344
+	TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE FOR JA-1 TO BE: $16
+	TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE FOR JA-2 TO BE: $2553
+
+UNITED STATES DEPARTMENT OF THE TREASURY - Bank Audit Terminated...
+
+
+********************************************************************************************
+
+
+						Agent WT7 withdraws $96from JA-2		(-) JA-2balance is $2457																 1108
+						Agent WT5 withdraws $44from JA-2		(-) JA-2balance is $2413																 1109
+						Agent WT7 withdraws $2from JA-2		(-) JA-2balance is $2411																 1110
+						Agent WT5 withdraws $2from JA-1		(-) JA-1balance is $14																 1111
+						Agent WT7 attempts to withdraw $62 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $14
+
+						Agent WT5 withdraws $40from JA-2		(-) JA-2balance is $2371																 1112
+						Agent WT5 withdraws $97from JA-2		(-) JA-2balance is $2274																 1113
+						Agent WT5 withdraws $8from JA-1		(-) JA-1balance is $6																 1114
+						Agent WT5 attempts to withdraw $99 fron JA-1 (*****) WITHDRAWAL BLOCKED- INSUFFICIENT FUNDS!!! Balance is only $6
+
+
+[Done] exited with code=null in 72.009 seconds
+
