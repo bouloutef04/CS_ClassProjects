@@ -1,0 +1,55 @@
+<web-app>
+    <display-name>
+        Project 4 Enterprise Systems (CNT 4714 - Fall 2024)
+    </display-name>
+    <description>
+        This is a multi-layered web application.
+    </description>
+    <!-- Servlet definitions-->
+
+    <servlet>
+        <servlet-name>auth</servlet-name>
+        <servlet-class>project4.AutheticationServlet</servlet-class>
+    </servlet>
+
+        <servlet-mapping>
+            <servlet-name>auth</servlet-name>
+            <url-pattern>/AuthenServlet</url-pattern>
+        </servlet-mapping>
+
+    <servlet>
+        <servlet-name>rootCommand</servlet-name>
+        <servlet-class>project4.RootHome</servlet-class>
+    </servlet>
+
+        <servlet-mapping>
+            <servlet-name>rootCommand</servlet-name>
+            <url-pattern>/RootCommand</url-pattern>
+        </servlet-mapping>
+
+    <servlet>
+        <servlet-name>clientCommand</servlet-name>
+        <servlet-class>project4.ClientHome</servlet-class>
+    </servlet>
+
+        <servlet-mapping>
+            <servlet-name>clientCommand</servlet-name>
+            <url-pattern>/ClientCommand</url-pattern>
+        </servlet-mapping>
+
+    <servlet>
+        <servlet-name>accountantCommand</servlet-name>
+        <servlet-class>project4.AccountantHome</servlet-class>
+    </servlet>
+
+        <servlet-mapping>
+            <servlet-name>accountantCommand</servlet-name>
+            <url-pattern>/AccountantCommand</url-pattern>
+        </servlet-mapping>
+    
+<!-- Default load page-->
+    <welcomne-file-list>
+        <welcome-file>authentication.html</welcome-file>
+    </welcomne-file-list>
+ 
+</web-app>

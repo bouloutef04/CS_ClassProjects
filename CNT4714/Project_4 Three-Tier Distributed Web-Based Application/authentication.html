@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Authentication</title>
+        <meta charset="utf-8">
+        <style type="text/css">
+            <!--
+                body { background-color: black; color:lime; font-family: verdana, arial, sans-serif; font-size: 1.4em;  }
+                h1 { color:yellow; font-size: 1.3em; text-align: center;}
+                h2 { color:lime; font-size: 1.2em; text-align: center;}
+                h3 {color:red; font-size: 1.1em; text-align: center;}
+                input[type="submit"] {background-color: rgb(150, 150, 21); color:lime; font-weight:bold; text-align: center; align-content: center;}
+                input[type="text"]{background-color:rgb(150, 150, 21); color:white; text-align: center; align-self: center;}
+                span {color: red;}
+                #servlet {color:purple;}
+                #jsp {color:cyan;}
+            -->
+         </style>
+    </head>
+    <body>
+        <h1>Welcome to the Fall 2024 Project 4 Enterprise System</h1>
+        <h2>A Servlet/JSP-based Multi-tiered Enterprise Application Using A Tomcat Container</h2>
+        <br><br>
+        <h3>-User Authentication Page-</h3>
+        <br><br>
+        <hr>
+        <div class ="buttons">
+            <form action="AuthenServlet" method="post">
+                <label for="username">UserName: </label>
+                <input type="text" id="username" name="username"><br><br>
+                <label for="password">Password: </label>
+                <input type="password" id="password" name="password"><br><br>
+                <input type="submit" name="auth" id="auth" value="Click To Authenticate">
+            </form>
+        </div>
+
+    </body>
+</html>
